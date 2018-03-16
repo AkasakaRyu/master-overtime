@@ -1,0 +1,2 @@
+ERROR - 2018-01-30 00:11:05 --> Severity: Warning --> mysqli::real_connect(): (HY000/1049): Unknown database 'industri_overtime' D:\Projects\master-overtime\system\database\drivers\mysqli\mysqli_driver.php 201
+ERROR - 2018-01-30 00:11:05 --> Unable to connect to the database

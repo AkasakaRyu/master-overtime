@@ -1,0 +1,7 @@
+ERROR - 2018-02-03 22:50:22 --> Severity: Notice --> Undefined variable: b D:\Projects\master-overtime\application\views\Order\V_Order.php 58
+ERROR - 2018-02-03 22:50:22 --> Severity: Notice --> Trying to get property 'Kode_barang' of non-object D:\Projects\master-overtime\application\views\Order\V_Order.php 58
+ERROR - 2018-02-03 22:51:11 --> Severity: Notice --> Undefined variable: b D:\Projects\master-overtime\application\views\Order\V_Order.php 59
+ERROR - 2018-02-03 22:51:11 --> Severity: Notice --> Trying to get property 'Kode_barang' of non-object D:\Projects\master-overtime\application\views\Order\V_Order.php 59
+ERROR - 2018-02-03 23:21:49 --> Query error: Unknown column 'Tanggal' in 'order clause' - Invalid query: SELECT *
+FROM `ak_barang`
+ORDER BY `Tanggal` ASC

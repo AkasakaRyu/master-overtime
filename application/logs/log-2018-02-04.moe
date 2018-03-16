@@ -1,0 +1,639 @@
+ERROR - 2018-02-04 00:25:27 --> 404 Page Not Found: Persedian/bahan_baku
+ERROR - 2018-02-04 00:31:27 --> 404 Page Not Found: Persedian/bahan_baku
+ERROR - 2018-02-04 00:31:53 --> 404 Page Not Found: Persedian/bahan_baku
+ERROR - 2018-02-04 00:32:19 --> 404 Page Not Found: Persedian/bahan_baku
+ERROR - 2018-02-04 00:48:38 --> Severity: Notice --> Undefined property: stdClass::$Penjual D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 59
+ERROR - 2018-02-04 00:48:38 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_barang D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 61
+ERROR - 2018-02-04 00:48:38 --> Severity: Notice --> Undefined property: stdClass::$Penjual D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 80
+ERROR - 2018-02-04 00:48:38 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_barang D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 92
+ERROR - 2018-02-04 00:48:38 --> Severity: Notice --> Undefined property: stdClass::$Penjual D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 59
+ERROR - 2018-02-04 00:48:38 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_barang D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 61
+ERROR - 2018-02-04 00:48:38 --> Severity: Notice --> Undefined property: stdClass::$Penjual D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 80
+ERROR - 2018-02-04 00:48:38 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_barang D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 92
+ERROR - 2018-02-04 00:48:38 --> Severity: Notice --> Undefined property: stdClass::$Penjual D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 59
+ERROR - 2018-02-04 00:48:38 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_barang D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 61
+ERROR - 2018-02-04 00:48:38 --> Severity: Notice --> Undefined property: stdClass::$Penjual D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 80
+ERROR - 2018-02-04 00:48:38 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_barang D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 92
+ERROR - 2018-02-04 00:48:38 --> Severity: Notice --> Undefined property: stdClass::$Penjual D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 59
+ERROR - 2018-02-04 00:48:38 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_barang D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 61
+ERROR - 2018-02-04 00:48:38 --> Severity: Notice --> Undefined property: stdClass::$Penjual D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 80
+ERROR - 2018-02-04 00:48:38 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_barang D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 92
+ERROR - 2018-02-04 00:50:22 --> Severity: Notice --> Undefined property: stdClass::$Penjual D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 59
+ERROR - 2018-02-04 00:50:22 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_barang D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 61
+ERROR - 2018-02-04 00:50:22 --> Severity: Notice --> Undefined property: stdClass::$Penjual D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 80
+ERROR - 2018-02-04 00:50:22 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_barang D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 92
+ERROR - 2018-02-04 00:50:22 --> Severity: Notice --> Undefined property: stdClass::$Penjual D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 59
+ERROR - 2018-02-04 00:50:22 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_barang D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 61
+ERROR - 2018-02-04 00:50:22 --> Severity: Notice --> Undefined property: stdClass::$Penjual D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 80
+ERROR - 2018-02-04 00:50:22 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_barang D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 92
+ERROR - 2018-02-04 00:50:22 --> Severity: Notice --> Undefined property: stdClass::$Penjual D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 59
+ERROR - 2018-02-04 00:50:22 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_barang D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 61
+ERROR - 2018-02-04 00:50:22 --> Severity: Notice --> Undefined property: stdClass::$Penjual D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 80
+ERROR - 2018-02-04 00:50:22 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_barang D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 92
+ERROR - 2018-02-04 00:50:22 --> Severity: Notice --> Undefined property: stdClass::$Penjual D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 59
+ERROR - 2018-02-04 00:50:22 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_barang D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 61
+ERROR - 2018-02-04 00:50:22 --> Severity: Notice --> Undefined property: stdClass::$Penjual D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 80
+ERROR - 2018-02-04 00:50:22 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_barang D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 92
+ERROR - 2018-02-04 01:00:29 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_barang D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 61
+ERROR - 2018-02-04 01:00:29 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_barang D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 92
+ERROR - 2018-02-04 01:00:46 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_barang D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 92
+ERROR - 2018-02-04 01:00:59 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_barang D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 92
+ERROR - 2018-02-04 01:01:13 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_barang D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 91
+ERROR - 2018-02-04 01:01:57 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_barang D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 91
+ERROR - 2018-02-04 01:04:44 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_barang D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 91
+ERROR - 2018-02-04 01:04:48 --> Severity: error --> Exception: Call to undefined method MPersediaan::HapusBahan() D:\Projects\master-overtime\application\controllers\Persediaan.php 63
+ERROR - 2018-02-04 01:05:17 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_barang D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 91
+ERROR - 2018-02-04 01:05:47 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_barang D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 91
+ERROR - 2018-02-04 01:07:10 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_barang D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 91
+ERROR - 2018-02-04 01:07:16 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_barang D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 91
+ERROR - 2018-02-04 01:07:27 --> 404 Page Not Found: Persediaan/report
+ERROR - 2018-02-04 01:08:44 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_barang D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 91
+ERROR - 2018-02-04 01:09:06 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_barang D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 91
+ERROR - 2018-02-04 01:09:23 --> Severity: Notice --> Undefined variable: Overtime D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 50
+ERROR - 2018-02-04 01:09:23 --> Severity: Warning --> Invalid argument supplied for foreach() D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 50
+ERROR - 2018-02-04 01:09:57 --> Severity: Notice --> Undefined property: stdClass::$Nama D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 55
+ERROR - 2018-02-04 01:09:57 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_jam D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 58
+ERROR - 2018-02-04 01:09:57 --> Severity: Notice --> Undefined property: stdClass::$Status D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 59
+ERROR - 2018-02-04 01:17:31 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_barang D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 91
+ERROR - 2018-02-04 01:18:03 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_barang D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 91
+ERROR - 2018-02-04 01:18:03 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_barang D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 91
+ERROR - 2018-02-04 01:20:13 --> Severity: Notice --> Undefined property: stdClass::$Tanggal D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 57
+ERROR - 2018-02-04 01:20:13 --> Severity: Notice --> Undefined property: stdClass::$Penjual D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 58
+ERROR - 2018-02-04 01:20:13 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 59
+ERROR - 2018-02-04 01:20:55 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '*
+FROM `ak_barang`
+WHERE `Jenis_barang` = 'Bahan Baku'
+ORDER BY `Id_barang` ASC' at line 1 - Invalid query: SELECT SUM(Jumlah) as Total, *
+FROM `ak_barang`
+WHERE `Jenis_barang` = 'Bahan Baku'
+ORDER BY `Id_barang` ASC
+ERROR - 2018-02-04 01:31:31 --> Severity: error --> Exception: Call to undefined method MPersediaan::GetTotBahan() D:\Projects\master-overtime\application\controllers\Persediaan.php 53
+ERROR - 2018-02-04 01:31:37 --> Severity: error --> Exception: Call to undefined method MPersediaan::GetTotBahan() D:\Projects\master-overtime\application\controllers\Persediaan.php 53
+ERROR - 2018-02-04 01:31:48 --> Severity: error --> Exception: Call to undefined method MPersediaan::GetTotBahan() D:\Projects\master-overtime\application\controllers\Persediaan.php 53
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Tanggal' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 57
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Penjual' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 58
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Nama_barang' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 59
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Jumlah' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 60
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Tanggal' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 57
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Penjual' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 58
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Nama_barang' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 59
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Jumlah' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 60
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Tanggal' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 57
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Penjual' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 58
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Nama_barang' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 59
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Jumlah' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 60
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Tanggal' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 57
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Penjual' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 58
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Nama_barang' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 59
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Jumlah' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 60
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Tanggal' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 57
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Penjual' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 58
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Nama_barang' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 59
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Jumlah' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 60
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Tanggal' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 57
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Penjual' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 58
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Nama_barang' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 59
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Jumlah' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 60
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Tanggal' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 57
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Penjual' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 58
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Nama_barang' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 59
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Jumlah' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 60
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Tanggal' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 57
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Penjual' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 58
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Nama_barang' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 59
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Jumlah' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 60
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Tanggal' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 57
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Penjual' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 58
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Nama_barang' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 59
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Jumlah' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 60
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Tanggal' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 57
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Penjual' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 58
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Nama_barang' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 59
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Jumlah' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 60
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Tanggal' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 57
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Penjual' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 58
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Nama_barang' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 59
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Jumlah' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 60
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Tanggal' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 57
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Penjual' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 58
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Nama_barang' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 59
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Jumlah' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 60
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Tanggal' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 57
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Penjual' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 58
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Nama_barang' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 59
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Jumlah' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 60
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Tanggal' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 57
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Penjual' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 58
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Nama_barang' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 59
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Jumlah' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 60
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Tanggal' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 57
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Penjual' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 58
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Nama_barang' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 59
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Jumlah' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 60
+ERROR - 2018-02-04 01:32:18 --> Severity: Notice --> Trying to get property 'Jumlah' of non-object D:\Projects\master-overtime\application\views\Persediaan\V_Report_Gudang.php 67
+ERROR - 2018-02-04 01:41:24 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_barang D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 91
+ERROR - 2018-02-04 01:41:24 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_barang D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 91
+ERROR - 2018-02-04 01:41:38 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_barang D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 90
+ERROR - 2018-02-04 01:41:38 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_barang D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 90
+ERROR - 2018-02-04 01:41:51 --> Query error: Column 'Tanggal' in order clause is ambiguous - Invalid query: SELECT *
+FROM `ak_data_permintaan`
+JOIN `ak_barang` ON `ak_barang`.`Id_barang`=`ak_data_permintaan`.`Id_barang`
+ORDER BY `Tanggal` ASC
+ERROR - 2018-02-04 01:43:23 --> Severity: Notice --> Undefined property: stdClass::$ak_data_permintaan D:\Projects\master-overtime\application\views\Order\V_Order.php 60
+ERROR - 2018-02-04 01:43:23 --> Severity: Warning --> Use of undefined constant Tanggal - assumed 'Tanggal' (this will throw an Error in a future version of PHP) D:\Projects\master-overtime\application\views\Order\V_Order.php 60
+ERROR - 2018-02-04 01:43:23 --> Severity: Notice --> Undefined property: stdClass::$ak_data_permintaan D:\Projects\master-overtime\application\views\Order\V_Order.php 60
+ERROR - 2018-02-04 01:43:23 --> Severity: Warning --> Use of undefined constant Tanggal - assumed 'Tanggal' (this will throw an Error in a future version of PHP) D:\Projects\master-overtime\application\views\Order\V_Order.php 60
+ERROR - 2018-02-04 01:43:23 --> Severity: Notice --> Undefined property: stdClass::$ak_data_permintaan D:\Projects\master-overtime\application\views\Order\V_Order.php 60
+ERROR - 2018-02-04 01:43:23 --> Severity: Warning --> Use of undefined constant Tanggal - assumed 'Tanggal' (this will throw an Error in a future version of PHP) D:\Projects\master-overtime\application\views\Order\V_Order.php 60
+ERROR - 2018-02-04 01:43:23 --> Severity: Notice --> Undefined property: stdClass::$ak_data_permintaan D:\Projects\master-overtime\application\views\Order\V_Order.php 60
+ERROR - 2018-02-04 01:43:23 --> Severity: Warning --> Use of undefined constant Tanggal - assumed 'Tanggal' (this will throw an Error in a future version of PHP) D:\Projects\master-overtime\application\views\Order\V_Order.php 60
+ERROR - 2018-02-04 01:45:46 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Order\V_Order.php 64
+ERROR - 2018-02-04 01:45:46 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Order\V_Order.php 77
+ERROR - 2018-02-04 01:45:46 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Order\V_Order.php 117
+ERROR - 2018-02-04 01:45:46 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Order\V_Order.php 136
+ERROR - 2018-02-04 01:45:46 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Order\V_Order.php 64
+ERROR - 2018-02-04 01:45:46 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Order\V_Order.php 77
+ERROR - 2018-02-04 01:45:46 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Order\V_Order.php 117
+ERROR - 2018-02-04 01:45:46 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Order\V_Order.php 136
+ERROR - 2018-02-04 01:45:46 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Order\V_Order.php 64
+ERROR - 2018-02-04 01:45:46 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Order\V_Order.php 77
+ERROR - 2018-02-04 01:45:46 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Order\V_Order.php 117
+ERROR - 2018-02-04 01:45:46 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Order\V_Order.php 136
+ERROR - 2018-02-04 01:45:46 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Order\V_Order.php 64
+ERROR - 2018-02-04 01:45:46 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Order\V_Order.php 77
+ERROR - 2018-02-04 01:45:46 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Order\V_Order.php 117
+ERROR - 2018-02-04 01:45:46 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Order\V_Order.php 136
+ERROR - 2018-02-04 01:46:13 --> Query error: Unknown column 'ak_barang.Kode_barangak_barang.Nama_barang' in 'field list' - Invalid query: SELECT `ak_data_permintaan`.*, `ak_barang`.`Kode_barangak_barang`.`Nama_barang`
+FROM `ak_data_permintaan`
+JOIN `ak_barang` ON `ak_barang`.`Id_barang`=`ak_data_permintaan`.`Id_barang`
+ORDER BY `ak_data_permintaan`.`Tanggal` ASC
+ERROR - 2018-02-04 01:47:15 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_barang D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 90
+ERROR - 2018-02-04 01:47:15 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_barang D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 90
+ERROR - 2018-02-04 01:49:43 --> Severity: Notice --> Undefined property: stdClass::$Status D:\Projects\master-overtime\application\views\Output\V_Output.php 51
+ERROR - 2018-02-04 01:49:43 --> Severity: Notice --> Undefined property: stdClass::$Status D:\Projects\master-overtime\application\views\Output\V_Output.php 51
+ERROR - 2018-02-04 01:49:43 --> Severity: Notice --> Undefined property: stdClass::$Status D:\Projects\master-overtime\application\views\Output\V_Output.php 51
+ERROR - 2018-02-04 01:49:43 --> Severity: Notice --> Undefined property: stdClass::$Status D:\Projects\master-overtime\application\views\Output\V_Output.php 51
+ERROR - 2018-02-04 01:51:53 --> Severity: error --> Exception: Call to undefined method MOutput::Barang() D:\Projects\master-overtime\application\controllers\Output.php 16
+ERROR - 2018-02-04 01:51:58 --> Severity: Notice --> Undefined property: stdClass::$Output D:\Projects\master-overtime\application\views\Output\V_Output.php 49
+ERROR - 2018-02-04 01:51:58 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 51
+ERROR - 2018-02-04 01:51:58 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 54
+ERROR - 2018-02-04 01:51:58 --> Severity: Notice --> Undefined property: stdClass::$Id_d_permintaan D:\Projects\master-overtime\application\views\Output\V_Output.php 59
+ERROR - 2018-02-04 01:51:58 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 61
+ERROR - 2018-02-04 01:51:58 --> Severity: Notice --> Undefined property: stdClass::$Output D:\Projects\master-overtime\application\views\Output\V_Output.php 67
+ERROR - 2018-02-04 01:51:58 --> Severity: Notice --> Undefined property: stdClass::$Output D:\Projects\master-overtime\application\views\Output\V_Output.php 49
+ERROR - 2018-02-04 01:51:58 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 51
+ERROR - 2018-02-04 01:51:58 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 54
+ERROR - 2018-02-04 01:51:58 --> Severity: Notice --> Undefined property: stdClass::$Id_d_permintaan D:\Projects\master-overtime\application\views\Output\V_Output.php 59
+ERROR - 2018-02-04 01:51:58 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 61
+ERROR - 2018-02-04 01:51:58 --> Severity: Notice --> Undefined property: stdClass::$Output D:\Projects\master-overtime\application\views\Output\V_Output.php 67
+ERROR - 2018-02-04 01:51:58 --> Severity: Notice --> Undefined property: stdClass::$Output D:\Projects\master-overtime\application\views\Output\V_Output.php 49
+ERROR - 2018-02-04 01:51:58 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 51
+ERROR - 2018-02-04 01:51:58 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 54
+ERROR - 2018-02-04 01:51:58 --> Severity: Notice --> Undefined property: stdClass::$Id_d_permintaan D:\Projects\master-overtime\application\views\Output\V_Output.php 59
+ERROR - 2018-02-04 01:51:58 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 61
+ERROR - 2018-02-04 01:51:58 --> Severity: Notice --> Undefined property: stdClass::$Output D:\Projects\master-overtime\application\views\Output\V_Output.php 67
+ERROR - 2018-02-04 01:51:58 --> Severity: Notice --> Undefined property: stdClass::$Output D:\Projects\master-overtime\application\views\Output\V_Output.php 49
+ERROR - 2018-02-04 01:51:58 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 51
+ERROR - 2018-02-04 01:51:58 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 54
+ERROR - 2018-02-04 01:51:58 --> Severity: Notice --> Undefined property: stdClass::$Id_d_permintaan D:\Projects\master-overtime\application\views\Output\V_Output.php 59
+ERROR - 2018-02-04 01:51:58 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 61
+ERROR - 2018-02-04 01:51:58 --> Severity: Notice --> Undefined property: stdClass::$Output D:\Projects\master-overtime\application\views\Output\V_Output.php 67
+ERROR - 2018-02-04 01:51:58 --> Severity: Notice --> Undefined property: stdClass::$Output D:\Projects\master-overtime\application\views\Output\V_Output.php 49
+ERROR - 2018-02-04 01:51:58 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 51
+ERROR - 2018-02-04 01:51:58 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 54
+ERROR - 2018-02-04 01:51:58 --> Severity: Notice --> Undefined property: stdClass::$Id_d_permintaan D:\Projects\master-overtime\application\views\Output\V_Output.php 59
+ERROR - 2018-02-04 01:51:58 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 61
+ERROR - 2018-02-04 01:51:58 --> Severity: Notice --> Undefined property: stdClass::$Output D:\Projects\master-overtime\application\views\Output\V_Output.php 67
+ERROR - 2018-02-04 01:51:58 --> Severity: Notice --> Undefined property: stdClass::$Output D:\Projects\master-overtime\application\views\Output\V_Output.php 49
+ERROR - 2018-02-04 01:51:58 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 51
+ERROR - 2018-02-04 01:51:58 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 54
+ERROR - 2018-02-04 01:51:58 --> Severity: Notice --> Undefined property: stdClass::$Id_d_permintaan D:\Projects\master-overtime\application\views\Output\V_Output.php 59
+ERROR - 2018-02-04 01:51:58 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 61
+ERROR - 2018-02-04 01:51:58 --> Severity: Notice --> Undefined property: stdClass::$Output D:\Projects\master-overtime\application\views\Output\V_Output.php 67
+ERROR - 2018-02-04 01:53:31 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 51
+ERROR - 2018-02-04 01:53:31 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 54
+ERROR - 2018-02-04 01:53:31 --> Severity: Notice --> Undefined property: stdClass::$Id_d_permintaan D:\Projects\master-overtime\application\views\Output\V_Output.php 59
+ERROR - 2018-02-04 01:53:31 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 61
+ERROR - 2018-02-04 01:53:31 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 51
+ERROR - 2018-02-04 01:53:31 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 54
+ERROR - 2018-02-04 01:53:31 --> Severity: Notice --> Undefined property: stdClass::$Id_d_permintaan D:\Projects\master-overtime\application\views\Output\V_Output.php 59
+ERROR - 2018-02-04 01:53:31 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 61
+ERROR - 2018-02-04 01:53:31 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 51
+ERROR - 2018-02-04 01:53:31 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 54
+ERROR - 2018-02-04 01:53:31 --> Severity: Notice --> Undefined property: stdClass::$Id_d_permintaan D:\Projects\master-overtime\application\views\Output\V_Output.php 59
+ERROR - 2018-02-04 01:53:31 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 61
+ERROR - 2018-02-04 01:53:31 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 51
+ERROR - 2018-02-04 01:53:31 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 54
+ERROR - 2018-02-04 01:53:31 --> Severity: Notice --> Undefined property: stdClass::$Id_d_permintaan D:\Projects\master-overtime\application\views\Output\V_Output.php 59
+ERROR - 2018-02-04 01:53:31 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 61
+ERROR - 2018-02-04 01:53:31 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 51
+ERROR - 2018-02-04 01:53:31 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 54
+ERROR - 2018-02-04 01:53:31 --> Severity: Notice --> Undefined property: stdClass::$Id_d_permintaan D:\Projects\master-overtime\application\views\Output\V_Output.php 59
+ERROR - 2018-02-04 01:53:31 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 61
+ERROR - 2018-02-04 01:53:31 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 51
+ERROR - 2018-02-04 01:53:31 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 54
+ERROR - 2018-02-04 01:53:31 --> Severity: Notice --> Undefined property: stdClass::$Id_d_permintaan D:\Projects\master-overtime\application\views\Output\V_Output.php 59
+ERROR - 2018-02-04 01:53:31 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 61
+ERROR - 2018-02-04 01:53:54 --> Severity: Notice --> Undefined property: stdClass::$Id_d_permintaan D:\Projects\master-overtime\application\views\Output\V_Output.php 59
+ERROR - 2018-02-04 01:53:54 --> Severity: Notice --> Undefined property: stdClass::$Id_d_permintaan D:\Projects\master-overtime\application\views\Output\V_Output.php 59
+ERROR - 2018-02-04 01:53:54 --> Severity: Notice --> Undefined property: stdClass::$Id_d_permintaan D:\Projects\master-overtime\application\views\Output\V_Output.php 59
+ERROR - 2018-02-04 01:53:54 --> Severity: Notice --> Undefined property: stdClass::$Id_d_permintaan D:\Projects\master-overtime\application\views\Output\V_Output.php 59
+ERROR - 2018-02-04 01:53:54 --> Severity: Notice --> Undefined property: stdClass::$Id_d_permintaan D:\Projects\master-overtime\application\views\Output\V_Output.php 59
+ERROR - 2018-02-04 01:53:54 --> Severity: Notice --> Undefined property: stdClass::$Id_d_permintaan D:\Projects\master-overtime\application\views\Output\V_Output.php 59
+ERROR - 2018-02-04 01:54:14 --> Severity: Notice --> Undefined property: stdClass::$Id_d_permintaan D:\Projects\master-overtime\application\views\Output\V_Output.php 59
+ERROR - 2018-02-04 01:54:14 --> Severity: Notice --> Undefined property: stdClass::$Id_d_permintaan D:\Projects\master-overtime\application\views\Output\V_Output.php 59
+ERROR - 2018-02-04 01:54:14 --> Severity: Notice --> Undefined property: stdClass::$Id_d_permintaan D:\Projects\master-overtime\application\views\Output\V_Output.php 59
+ERROR - 2018-02-04 01:54:14 --> Severity: Notice --> Undefined property: stdClass::$Id_d_permintaan D:\Projects\master-overtime\application\views\Output\V_Output.php 59
+ERROR - 2018-02-04 01:54:14 --> Severity: Notice --> Undefined property: stdClass::$Id_d_permintaan D:\Projects\master-overtime\application\views\Output\V_Output.php 59
+ERROR - 2018-02-04 01:54:14 --> Severity: Notice --> Undefined property: stdClass::$Id_d_permintaan D:\Projects\master-overtime\application\views\Output\V_Output.php 59
+ERROR - 2018-02-04 01:54:41 --> Severity: Notice --> Undefined property: stdClass::$Id_d_permintaan D:\Projects\master-overtime\application\views\Output\V_Output.php 59
+ERROR - 2018-02-04 01:54:41 --> Severity: Notice --> Undefined property: stdClass::$Id_d_permintaan D:\Projects\master-overtime\application\views\Output\V_Output.php 59
+ERROR - 2018-02-04 01:54:41 --> Severity: Notice --> Undefined property: stdClass::$Id_d_permintaan D:\Projects\master-overtime\application\views\Output\V_Output.php 59
+ERROR - 2018-02-04 01:54:41 --> Severity: Notice --> Undefined property: stdClass::$Id_d_permintaan D:\Projects\master-overtime\application\views\Output\V_Output.php 59
+ERROR - 2018-02-04 01:55:54 --> Severity: Notice --> Undefined property: stdClass::$Id_d_permintaan D:\Projects\master-overtime\application\views\Output\V_Output.php 59
+ERROR - 2018-02-04 01:55:54 --> Severity: Notice --> Undefined property: stdClass::$Id_d_permintaan D:\Projects\master-overtime\application\views\Output\V_Output.php 59
+ERROR - 2018-02-04 01:55:54 --> Severity: Notice --> Undefined property: stdClass::$Id_d_permintaan D:\Projects\master-overtime\application\views\Output\V_Output.php 59
+ERROR - 2018-02-04 01:55:54 --> Severity: Notice --> Undefined property: stdClass::$Id_d_permintaan D:\Projects\master-overtime\application\views\Output\V_Output.php 59
+ERROR - 2018-02-04 01:56:06 --> Severity: Notice --> Undefined property: stdClass::$Id_d_permintaan D:\Projects\master-overtime\application\views\Output\V_Output.php 59
+ERROR - 2018-02-04 01:56:06 --> Severity: Notice --> Undefined property: stdClass::$Id_d_permintaan D:\Projects\master-overtime\application\views\Output\V_Output.php 59
+ERROR - 2018-02-04 01:56:06 --> Severity: Notice --> Undefined property: stdClass::$Id_d_permintaan D:\Projects\master-overtime\application\views\Output\V_Output.php 59
+ERROR - 2018-02-04 01:56:06 --> Severity: Notice --> Undefined property: stdClass::$Id_d_permintaan D:\Projects\master-overtime\application\views\Output\V_Output.php 59
+ERROR - 2018-02-04 02:01:38 --> Severity: Notice --> Undefined property: stdClass::$Status D:\Projects\master-overtime\application\views\Output\V_Output.php 51
+ERROR - 2018-02-04 02:01:38 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 53
+ERROR - 2018-02-04 02:01:38 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 56
+ERROR - 2018-02-04 02:01:38 --> Severity: Notice --> Undefined property: stdClass::$Id_d_permintaan D:\Projects\master-overtime\application\views\Output\V_Output.php 61
+ERROR - 2018-02-04 02:01:38 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 63
+ERROR - 2018-02-04 02:01:38 --> Severity: Notice --> Undefined property: stdClass::$Status D:\Projects\master-overtime\application\views\Output\V_Output.php 51
+ERROR - 2018-02-04 02:01:38 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 53
+ERROR - 2018-02-04 02:01:38 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 56
+ERROR - 2018-02-04 02:01:38 --> Severity: Notice --> Undefined property: stdClass::$Id_d_permintaan D:\Projects\master-overtime\application\views\Output\V_Output.php 61
+ERROR - 2018-02-04 02:01:38 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 63
+ERROR - 2018-02-04 02:01:38 --> Severity: Notice --> Undefined property: stdClass::$Status D:\Projects\master-overtime\application\views\Output\V_Output.php 51
+ERROR - 2018-02-04 02:01:38 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 53
+ERROR - 2018-02-04 02:01:38 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 56
+ERROR - 2018-02-04 02:01:38 --> Severity: Notice --> Undefined property: stdClass::$Id_d_permintaan D:\Projects\master-overtime\application\views\Output\V_Output.php 61
+ERROR - 2018-02-04 02:01:38 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 63
+ERROR - 2018-02-04 02:01:38 --> Severity: Notice --> Undefined property: stdClass::$Status D:\Projects\master-overtime\application\views\Output\V_Output.php 51
+ERROR - 2018-02-04 02:01:38 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 53
+ERROR - 2018-02-04 02:01:38 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 56
+ERROR - 2018-02-04 02:01:38 --> Severity: Notice --> Undefined property: stdClass::$Id_d_permintaan D:\Projects\master-overtime\application\views\Output\V_Output.php 61
+ERROR - 2018-02-04 02:01:38 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 63
+ERROR - 2018-02-04 02:01:45 --> Severity: Notice --> Undefined property: stdClass::$Status D:\Projects\master-overtime\application\views\Output\V_Output.php 51
+ERROR - 2018-02-04 02:01:45 --> Severity: Notice --> Undefined property: stdClass::$Status D:\Projects\master-overtime\application\views\Output\V_Output.php 51
+ERROR - 2018-02-04 02:01:45 --> Severity: Notice --> Undefined property: stdClass::$Status D:\Projects\master-overtime\application\views\Output\V_Output.php 51
+ERROR - 2018-02-04 02:01:45 --> Severity: Notice --> Undefined property: stdClass::$Status D:\Projects\master-overtime\application\views\Output\V_Output.php 51
+ERROR - 2018-02-04 02:03:09 --> Severity: Notice --> Undefined property: stdClass::$Output D:\Projects\master-overtime\application\views\Output\V_Output.php 49
+ERROR - 2018-02-04 02:03:09 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 51
+ERROR - 2018-02-04 02:03:09 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 54
+ERROR - 2018-02-04 02:03:09 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 61
+ERROR - 2018-02-04 02:03:09 --> Severity: Notice --> Undefined property: stdClass::$Output D:\Projects\master-overtime\application\views\Output\V_Output.php 67
+ERROR - 2018-02-04 02:03:09 --> Severity: Notice --> Undefined property: stdClass::$Output D:\Projects\master-overtime\application\views\Output\V_Output.php 49
+ERROR - 2018-02-04 02:03:09 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 51
+ERROR - 2018-02-04 02:03:09 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 54
+ERROR - 2018-02-04 02:03:09 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 61
+ERROR - 2018-02-04 02:03:09 --> Severity: Notice --> Undefined property: stdClass::$Output D:\Projects\master-overtime\application\views\Output\V_Output.php 67
+ERROR - 2018-02-04 02:03:09 --> Severity: Notice --> Undefined property: stdClass::$Output D:\Projects\master-overtime\application\views\Output\V_Output.php 49
+ERROR - 2018-02-04 02:03:09 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 51
+ERROR - 2018-02-04 02:03:09 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 54
+ERROR - 2018-02-04 02:03:09 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 61
+ERROR - 2018-02-04 02:03:09 --> Severity: Notice --> Undefined property: stdClass::$Output D:\Projects\master-overtime\application\views\Output\V_Output.php 67
+ERROR - 2018-02-04 02:03:09 --> Severity: Notice --> Undefined property: stdClass::$Output D:\Projects\master-overtime\application\views\Output\V_Output.php 49
+ERROR - 2018-02-04 02:03:09 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 51
+ERROR - 2018-02-04 02:03:09 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 54
+ERROR - 2018-02-04 02:03:09 --> Severity: Notice --> Undefined property: stdClass::$Id_d_output D:\Projects\master-overtime\application\views\Output\V_Output.php 61
+ERROR - 2018-02-04 02:03:09 --> Severity: Notice --> Undefined property: stdClass::$Output D:\Projects\master-overtime\application\views\Output\V_Output.php 67
+ERROR - 2018-02-04 02:03:23 --> Severity: Notice --> Undefined property: stdClass::$Tanggal D:\Projects\master-overtime\application\views\Output\V_Output.php 47
+ERROR - 2018-02-04 02:03:23 --> Severity: Notice --> Undefined property: stdClass::$Tanggal D:\Projects\master-overtime\application\views\Output\V_Output.php 47
+ERROR - 2018-02-04 02:03:23 --> Severity: Notice --> Undefined property: stdClass::$Tanggal D:\Projects\master-overtime\application\views\Output\V_Output.php 47
+ERROR - 2018-02-04 02:03:23 --> Severity: Notice --> Undefined property: stdClass::$Tanggal D:\Projects\master-overtime\application\views\Output\V_Output.php 47
+ERROR - 2018-02-04 02:07:28 --> Severity: error --> Exception: Call to undefined method Movertime::GetData() D:\Projects\master-overtime\application\controllers\Overtime.php 16
+ERROR - 2018-02-04 02:35:45 --> Severity: error --> Exception: syntax error, unexpected '=>' (T_DOUBLE_ARROW) D:\Projects\master-overtime\application\models\MOrder.php 101
+ERROR - 2018-02-04 02:36:09 --> Severity: Notice --> Undefined variable: cek D:\Projects\master-overtime\application\models\MOrder.php 100
+ERROR - 2018-02-04 02:36:09 --> Severity: error --> Exception: Call to a member function num_rows() on null D:\Projects\master-overtime\application\models\MOrder.php 100
+ERROR - 2018-02-04 02:39:02 --> Severity: Warning --> Division by zero D:\Projects\master-overtime\application\models\MOrder.php 81
+ERROR - 2018-02-04 02:39:02 --> Severity: Warning --> Division by zero D:\Projects\master-overtime\application\models\MOrder.php 82
+ERROR - 2018-02-04 02:39:02 --> Query error: Unknown column 'NAN' in 'field list' - Invalid query: INSERT INTO `ak_data_overtime` (`Id_d_permintaan`, `Jumlah_jam`, `Status`) VALUES ('9', NAN, 'Delayed')
+ERROR - 2018-02-04 02:40:35 --> Severity: Warning --> Division by zero D:\Projects\master-overtime\application\models\MOrder.php 81
+ERROR - 2018-02-04 02:40:35 --> Severity: Warning --> Division by zero D:\Projects\master-overtime\application\models\MOrder.php 82
+ERROR - 2018-02-04 02:40:35 --> Severity: Notice --> Undefined variable: Z D:\Projects\master-overtime\application\models\MOrder.php 105
+ERROR - 2018-02-04 02:40:35 --> Severity: Notice --> Undefined variable: Z D:\Projects\master-overtime\application\models\MOrder.php 105
+ERROR - 2018-02-04 02:40:35 --> Severity: Notice --> Undefined variable: Z D:\Projects\master-overtime\application\models\MOrder.php 112
+ERROR - 2018-02-04 02:40:35 --> Query error: Column 'Jumlah_jam' cannot be null - Invalid query: INSERT INTO `ak_data_overtime` (`Id_d_permintaan`, `Jumlah_jam`, `Status`) VALUES ('9', NULL, 'Delayed')
+ERROR - 2018-02-04 02:41:10 --> Severity: Warning --> Division by zero D:\Projects\master-overtime\application\models\MOrder.php 81
+ERROR - 2018-02-04 02:41:10 --> Severity: Warning --> Division by zero D:\Projects\master-overtime\application\models\MOrder.php 82
+ERROR - 2018-02-04 02:42:15 --> Severity: Warning --> Division by zero D:\Projects\master-overtime\application\models\MOrder.php 81
+ERROR - 2018-02-04 02:42:15 --> Severity: Warning --> Division by zero D:\Projects\master-overtime\application\models\MOrder.php 82
+ERROR - 2018-02-04 02:43:57 --> Severity: Warning --> Division by zero D:\Projects\master-overtime\application\models\MOrder.php 81
+ERROR - 2018-02-04 02:43:57 --> Severity: Warning --> Division by zero D:\Projects\master-overtime\application\models\MOrder.php 82
+ERROR - 2018-02-04 02:44:59 --> Severity: error --> Exception: syntax error, unexpected '->' (T_OBJECT_OPERATOR) D:\Projects\master-overtime\application\models\MOrder.php 104
+ERROR - 2018-02-04 02:45:10 --> Severity: Warning --> Division by zero D:\Projects\master-overtime\application\models\MOrder.php 81
+ERROR - 2018-02-04 02:45:10 --> Severity: Warning --> Division by zero D:\Projects\master-overtime\application\models\MOrder.php 82
+ERROR - 2018-02-04 02:45:10 --> Severity: Notice --> Undefined variable: cek D:\Projects\master-overtime\application\models\MOrder.php 105
+ERROR - 2018-02-04 02:45:10 --> Severity: error --> Exception: Call to a member function num_rows() on null D:\Projects\master-overtime\application\models\MOrder.php 105
+ERROR - 2018-02-04 02:46:00 --> Severity: Warning --> Division by zero D:\Projects\master-overtime\application\models\MOrder.php 81
+ERROR - 2018-02-04 02:46:00 --> Severity: Warning --> Division by zero D:\Projects\master-overtime\application\models\MOrder.php 82
+ERROR - 2018-02-04 02:50:46 --> Severity: Warning --> Division by zero D:\Projects\master-overtime\application\models\MOrder.php 81
+ERROR - 2018-02-04 02:50:46 --> Severity: Notice --> Undefined variable: output_tambah D:\Projects\master-overtime\application\models\MOrder.php 93
+ERROR - 2018-02-04 02:51:03 --> Severity: Warning --> Division by zero D:\Projects\master-overtime\application\models\MOrder.php 81
+ERROR - 2018-02-04 03:02:53 --> Severity: Notice --> Undefined property: stdClass::$Status D:\Projects\master-overtime\application\views\Order\V_Order.php 66
+ERROR - 2018-02-04 03:02:53 --> Severity: Notice --> Undefined property: stdClass::$Status D:\Projects\master-overtime\application\views\Order\V_Order.php 66
+ERROR - 2018-02-04 03:02:53 --> Severity: Notice --> Undefined property: stdClass::$Status D:\Projects\master-overtime\application\views\Order\V_Order.php 66
+ERROR - 2018-02-04 03:02:53 --> Severity: Notice --> Undefined property: stdClass::$Status D:\Projects\master-overtime\application\views\Order\V_Order.php 66
+ERROR - 2018-02-04 03:03:21 --> Severity: Notice --> Undefined property: stdClass::$Status D:\Projects\master-overtime\application\views\Order\V_Order.php 66
+ERROR - 2018-02-04 03:03:21 --> Severity: Notice --> Undefined property: stdClass::$Status D:\Projects\master-overtime\application\views\Order\V_Order.php 66
+ERROR - 2018-02-04 03:03:21 --> Severity: Notice --> Undefined property: stdClass::$Status D:\Projects\master-overtime\application\views\Order\V_Order.php 66
+ERROR - 2018-02-04 03:03:21 --> Severity: Notice --> Undefined property: stdClass::$Status D:\Projects\master-overtime\application\views\Order\V_Order.php 66
+ERROR - 2018-02-04 03:03:32 --> Severity: Notice --> Undefined property: stdClass::$Status D:\Projects\master-overtime\application\views\Order\V_Order.php 66
+ERROR - 2018-02-04 03:03:32 --> Severity: Notice --> Undefined property: stdClass::$Status D:\Projects\master-overtime\application\views\Order\V_Order.php 66
+ERROR - 2018-02-04 03:03:32 --> Severity: Notice --> Undefined property: stdClass::$Status D:\Projects\master-overtime\application\views\Order\V_Order.php 66
+ERROR - 2018-02-04 03:03:32 --> Severity: Notice --> Undefined property: stdClass::$Status D:\Projects\master-overtime\application\views\Order\V_Order.php 66
+ERROR - 2018-02-04 03:03:57 --> Severity: Notice --> Undefined property: stdClass::$Status D:\Projects\master-overtime\application\views\Order\V_Order.php 66
+ERROR - 2018-02-04 03:05:28 --> Severity: Notice --> Undefined property: stdClass::$Status D:\Projects\master-overtime\application\views\Order\V_Order.php 67
+ERROR - 2018-02-04 03:05:28 --> Severity: Notice --> Undefined property: stdClass::$Status D:\Projects\master-overtime\application\views\Order\V_Order.php 67
+ERROR - 2018-02-04 03:05:28 --> Severity: Notice --> Undefined property: stdClass::$Status D:\Projects\master-overtime\application\views\Order\V_Order.php 67
+ERROR - 2018-02-04 03:05:28 --> Severity: Notice --> Undefined property: stdClass::$Status D:\Projects\master-overtime\application\views\Order\V_Order.php 67
+ERROR - 2018-02-04 03:07:47 --> 404 Page Not Found: Overtime/order
+ERROR - 2018-02-04 03:18:40 --> Severity: error --> Exception: syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) D:\Projects\master-overtime\application\models\MOrder.php 111
+ERROR - 2018-02-04 03:19:28 --> Severity: error --> Exception: syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) D:\Projects\master-overtime\application\models\MOrder.php 111
+ERROR - 2018-02-04 03:25:29 --> Query error: Column 'Id_barang' in order clause is ambiguous - Invalid query: SELECT *
+FROM `ak_barang`
+JOIN `ak_data_permintaan` ON `ak_barang`.`Id_barang`=`ak_data_permintaan`.`Id_barang`
+JOIN `ak_data_persediaan` ON `ak_data_persediaan`.`Id_d_permintaan`=`ak_data_permintaan`.`Id_d_permintaan`
+ORDER BY `Id_barang` ASC
+ERROR - 2018-02-04 03:27:45 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_barang D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 90
+ERROR - 2018-02-04 03:27:45 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_barang D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 90
+ERROR - 2018-02-04 03:38:34 --> Severity: Warning --> Division by zero D:\Projects\master-overtime\application\models\MOrder.php 98
+ERROR - 2018-02-04 03:38:34 --> Query error: Unknown column 'NAN' in 'field list' - Invalid query: INSERT INTO `ak_data_overtime` (`Id_d_permintaan`, `Jumlah_jam`) VALUES ('13', NAN)
+ERROR - 2018-02-04 03:59:36 --> Severity: Warning --> Division by zero D:\Projects\master-overtime\application\models\MOrder.php 97
+ERROR - 2018-02-04 03:59:36 --> Query error: Unknown column 'NAN' in 'field list' - Invalid query: INSERT INTO `ak_data_overtime` (`Id_d_permintaan`, `Jumlah_jam`) VALUES ('12', NAN)
+ERROR - 2018-02-04 04:00:05 --> Severity: Warning --> Division by zero D:\Projects\master-overtime\application\models\MOrder.php 98
+ERROR - 2018-02-04 04:00:05 --> Query error: Unknown column 'NAN' in 'field list' - Invalid query: INSERT INTO `ak_data_overtime` (`Id_d_permintaan`, `Jumlah_jam`) VALUES ('12', NAN)
+ERROR - 2018-02-04 04:00:21 --> Severity: Warning --> Division by zero D:\Projects\master-overtime\application\models\MOrder.php 98
+ERROR - 2018-02-04 04:00:21 --> Query error: Unknown column 'NAN' in 'field list' - Invalid query: INSERT INTO `ak_data_overtime` (`Id_d_permintaan`, `Jumlah_jam`) VALUES ('12', NAN)
+ERROR - 2018-02-04 04:06:16 --> Severity: Notice --> Undefined property: stdClass::$Jumlah D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 60
+ERROR - 2018-02-04 04:06:16 --> Severity: Notice --> Undefined property: stdClass::$Jumlah D:\Projects\master-overtime\application\views\Persediaan\V_Bahan_Baku.php 60
+ERROR - 2018-02-04 04:07:53 --> Query error: Unknown column 'Jumlah' in 'field list' - Invalid query: SELECT SUM(`Jumlah`) AS `Jumlah`
+FROM `ak_barang`
+WHERE `Jenis_barang` = 'Bahan Baku'
+ORDER BY `Kode_barang` ASC
+ERROR - 2018-02-04 04:38:30 --> Severity: Notice --> Trying to get property 'Persediaan_Max' of non-object D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Gudang.php 22
+ERROR - 2018-02-04 04:38:30 --> Severity: Notice --> Trying to get property 'Persediaan_Min' of non-object D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Gudang.php 31
+ERROR - 2018-02-04 05:21:16 --> Severity: error --> Exception: syntax error, unexpected 'return' (T_RETURN) D:\Projects\master-overtime\application\models\MOrder.php 118
+ERROR - 2018-02-04 05:21:29 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '0 = 'procesed', 1 = 1
+WHERE `Id_d_permintaan` = '42'' at line 1 - Invalid query: UPDATE `ak_data_permintaan` SET 0 = 'procesed', 1 = 1
+WHERE `Id_d_permintaan` = '42'
+ERROR - 2018-02-04 05:22:56 --> Severity: Warning --> Division by zero D:\Projects\master-overtime\application\models\MOrder.php 81
+ERROR - 2018-02-04 05:22:56 --> Severity: Warning --> Division by zero D:\Projects\master-overtime\application\models\MOrder.php 82
+ERROR - 2018-02-04 05:23:11 --> Severity: Warning --> Division by zero D:\Projects\master-overtime\application\models\MOrder.php 81
+ERROR - 2018-02-04 05:23:11 --> Severity: Warning --> Division by zero D:\Projects\master-overtime\application\models\MOrder.php 82
+ERROR - 2018-02-04 05:23:30 --> Severity: Warning --> Division by zero D:\Projects\master-overtime\application\models\MOrder.php 81
+ERROR - 2018-02-04 05:23:30 --> Severity: Warning --> Division by zero D:\Projects\master-overtime\application\models\MOrder.php 82
+ERROR - 2018-02-04 05:23:41 --> Severity: Warning --> Division by zero D:\Projects\master-overtime\application\models\MOrder.php 81
+ERROR - 2018-02-04 05:23:41 --> Severity: Warning --> Division by zero D:\Projects\master-overtime\application\models\MOrder.php 82
+ERROR - 2018-02-04 05:32:37 --> Severity: error --> Exception: syntax error, unexpected 'if' (T_IF), expecting ',' or ';' D:\Projects\master-overtime\application\models\MOrder.php 98
+ERROR - 2018-02-04 05:47:54 --> Severity: Warning --> Division by zero D:\Projects\master-overtime\application\models\MOrder.php 81
+ERROR - 2018-02-04 05:47:54 --> Severity: Warning --> Division by zero D:\Projects\master-overtime\application\models\MOrder.php 82
+ERROR - 2018-02-04 05:48:10 --> Severity: Warning --> Division by zero D:\Projects\master-overtime\application\models\MOrder.php 81
+ERROR - 2018-02-04 05:48:10 --> Severity: Warning --> Division by zero D:\Projects\master-overtime\application\models\MOrder.php 82
+ERROR - 2018-02-04 05:48:51 --> Severity: Warning --> Division by zero D:\Projects\master-overtime\application\models\MOrder.php 81
+ERROR - 2018-02-04 05:48:51 --> Severity: Warning --> Division by zero D:\Projects\master-overtime\application\models\MOrder.php 82
+ERROR - 2018-02-04 05:49:58 --> Severity: Warning --> Division by zero D:\Projects\master-overtime\application\models\MOrder.php 81
+ERROR - 2018-02-04 05:49:58 --> Severity: Warning --> Division by zero D:\Projects\master-overtime\application\models\MOrder.php 82
+ERROR - 2018-02-04 05:51:36 --> Severity: Warning --> Division by zero D:\Projects\master-overtime\application\models\MOrder.php 81
+ERROR - 2018-02-04 05:51:36 --> Severity: Warning --> Division by zero D:\Projects\master-overtime\application\models\MOrder.php 82
+ERROR - 2018-02-04 06:28:48 --> 404 Page Not Found: Persediaan/input_produksi
+ERROR - 2018-02-04 06:31:26 --> Severity: Compile Error --> Cannot redeclare Persediaan::report() D:\Projects\master-overtime\application\controllers\Persediaan.php 60
+ERROR - 2018-02-04 06:31:41 --> Severity: Compile Error --> Cannot redeclare Persediaan::report() D:\Projects\master-overtime\application\controllers\Persediaan.php 60
+ERROR - 2018-02-04 06:33:04 --> 404 Page Not Found: Permintaan/input_produksi
+ERROR - 2018-02-04 06:33:48 --> 404 Page Not Found: Permintaan/input_produksi
+ERROR - 2018-02-04 06:33:53 --> Severity: Notice --> Undefined property: Output::$MPersediaan D:\Projects\master-overtime\application\controllers\Output.php 45
+ERROR - 2018-02-04 06:33:53 --> Severity: error --> Exception: Call to a member function GetBahan() on null D:\Projects\master-overtime\application\controllers\Output.php 45
+ERROR - 2018-02-04 06:34:09 --> Severity: error --> Exception: Call to undefined method MOutput::GetBahan() D:\Projects\master-overtime\application\controllers\Output.php 45
+ERROR - 2018-02-04 06:34:21 --> Severity: error --> Exception: Call to undefined method MOutput::GetProduksi() D:\Projects\master-overtime\application\controllers\Output.php 45
+ERROR - 2018-02-04 06:39:13 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_jam D:\Projects\master-overtime\application\views\Overtime\V_Report.php 58
+ERROR - 2018-02-04 06:39:13 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_jam D:\Projects\master-overtime\application\views\Overtime\V_Report.php 58
+ERROR - 2018-02-04 06:39:13 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_jam D:\Projects\master-overtime\application\views\Overtime\V_Report.php 58
+ERROR - 2018-02-04 06:39:13 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_jam D:\Projects\master-overtime\application\views\Overtime\V_Report.php 58
+ERROR - 2018-02-04 06:39:13 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_jam D:\Projects\master-overtime\application\views\Overtime\V_Report.php 58
+ERROR - 2018-02-04 06:39:13 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_jam D:\Projects\master-overtime\application\views\Overtime\V_Report.php 58
+ERROR - 2018-02-04 06:39:13 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_jam D:\Projects\master-overtime\application\views\Overtime\V_Report.php 58
+ERROR - 2018-02-04 06:39:13 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_jam D:\Projects\master-overtime\application\views\Overtime\V_Report.php 58
+ERROR - 2018-02-04 06:39:13 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_jam D:\Projects\master-overtime\application\views\Overtime\V_Report.php 58
+ERROR - 2018-02-04 06:39:13 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_jam D:\Projects\master-overtime\application\views\Overtime\V_Report.php 58
+ERROR - 2018-02-04 06:39:13 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_jam D:\Projects\master-overtime\application\views\Overtime\V_Report.php 58
+ERROR - 2018-02-04 06:39:13 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_jam D:\Projects\master-overtime\application\views\Overtime\V_Report.php 58
+ERROR - 2018-02-04 06:39:13 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_jam D:\Projects\master-overtime\application\views\Overtime\V_Report.php 58
+ERROR - 2018-02-04 06:39:13 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_jam D:\Projects\master-overtime\application\views\Overtime\V_Report.php 58
+ERROR - 2018-02-04 06:39:13 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_jam D:\Projects\master-overtime\application\views\Overtime\V_Report.php 58
+ERROR - 2018-02-04 06:39:13 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_jam D:\Projects\master-overtime\application\views\Overtime\V_Report.php 58
+ERROR - 2018-02-04 06:39:13 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_jam D:\Projects\master-overtime\application\views\Overtime\V_Report.php 58
+ERROR - 2018-02-04 06:39:13 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_jam D:\Projects\master-overtime\application\views\Overtime\V_Report.php 58
+ERROR - 2018-02-04 06:39:13 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_jam D:\Projects\master-overtime\application\views\Overtime\V_Report.php 58
+ERROR - 2018-02-04 06:39:13 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_jam D:\Projects\master-overtime\application\views\Overtime\V_Report.php 58
+ERROR - 2018-02-04 06:39:13 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_jam D:\Projects\master-overtime\application\views\Overtime\V_Report.php 58
+ERROR - 2018-02-04 06:39:13 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_jam D:\Projects\master-overtime\application\views\Overtime\V_Report.php 58
+ERROR - 2018-02-04 06:39:13 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_jam D:\Projects\master-overtime\application\views\Overtime\V_Report.php 58
+ERROR - 2018-02-04 06:39:13 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_jam D:\Projects\master-overtime\application\views\Overtime\V_Report.php 58
+ERROR - 2018-02-04 06:39:13 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_jam D:\Projects\master-overtime\application\views\Overtime\V_Report.php 58
+ERROR - 2018-02-04 06:39:13 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_jam D:\Projects\master-overtime\application\views\Overtime\V_Report.php 58
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Tanggal D:\Projects\master-overtime\application\views\Overtime\V_Report.php 56
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Jumlah D:\Projects\master-overtime\application\views\Overtime\V_Report.php 57
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Tanggal D:\Projects\master-overtime\application\views\Overtime\V_Report.php 56
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Jumlah D:\Projects\master-overtime\application\views\Overtime\V_Report.php 57
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Tanggal D:\Projects\master-overtime\application\views\Overtime\V_Report.php 56
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Jumlah D:\Projects\master-overtime\application\views\Overtime\V_Report.php 57
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Tanggal D:\Projects\master-overtime\application\views\Overtime\V_Report.php 56
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Jumlah D:\Projects\master-overtime\application\views\Overtime\V_Report.php 57
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Tanggal D:\Projects\master-overtime\application\views\Overtime\V_Report.php 56
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Jumlah D:\Projects\master-overtime\application\views\Overtime\V_Report.php 57
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Tanggal D:\Projects\master-overtime\application\views\Overtime\V_Report.php 56
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Jumlah D:\Projects\master-overtime\application\views\Overtime\V_Report.php 57
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Tanggal D:\Projects\master-overtime\application\views\Overtime\V_Report.php 56
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Jumlah D:\Projects\master-overtime\application\views\Overtime\V_Report.php 57
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Tanggal D:\Projects\master-overtime\application\views\Overtime\V_Report.php 56
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Jumlah D:\Projects\master-overtime\application\views\Overtime\V_Report.php 57
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Tanggal D:\Projects\master-overtime\application\views\Overtime\V_Report.php 56
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Jumlah D:\Projects\master-overtime\application\views\Overtime\V_Report.php 57
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Tanggal D:\Projects\master-overtime\application\views\Overtime\V_Report.php 56
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Jumlah D:\Projects\master-overtime\application\views\Overtime\V_Report.php 57
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Tanggal D:\Projects\master-overtime\application\views\Overtime\V_Report.php 56
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Jumlah D:\Projects\master-overtime\application\views\Overtime\V_Report.php 57
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Tanggal D:\Projects\master-overtime\application\views\Overtime\V_Report.php 56
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Jumlah D:\Projects\master-overtime\application\views\Overtime\V_Report.php 57
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Tanggal D:\Projects\master-overtime\application\views\Overtime\V_Report.php 56
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Jumlah D:\Projects\master-overtime\application\views\Overtime\V_Report.php 57
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Tanggal D:\Projects\master-overtime\application\views\Overtime\V_Report.php 56
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Jumlah D:\Projects\master-overtime\application\views\Overtime\V_Report.php 57
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Tanggal D:\Projects\master-overtime\application\views\Overtime\V_Report.php 56
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Jumlah D:\Projects\master-overtime\application\views\Overtime\V_Report.php 57
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Tanggal D:\Projects\master-overtime\application\views\Overtime\V_Report.php 56
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Jumlah D:\Projects\master-overtime\application\views\Overtime\V_Report.php 57
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Tanggal D:\Projects\master-overtime\application\views\Overtime\V_Report.php 56
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Jumlah D:\Projects\master-overtime\application\views\Overtime\V_Report.php 57
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Tanggal D:\Projects\master-overtime\application\views\Overtime\V_Report.php 56
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Jumlah D:\Projects\master-overtime\application\views\Overtime\V_Report.php 57
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Tanggal D:\Projects\master-overtime\application\views\Overtime\V_Report.php 56
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Jumlah D:\Projects\master-overtime\application\views\Overtime\V_Report.php 57
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Tanggal D:\Projects\master-overtime\application\views\Overtime\V_Report.php 56
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Jumlah D:\Projects\master-overtime\application\views\Overtime\V_Report.php 57
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Tanggal D:\Projects\master-overtime\application\views\Overtime\V_Report.php 56
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Jumlah D:\Projects\master-overtime\application\views\Overtime\V_Report.php 57
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Tanggal D:\Projects\master-overtime\application\views\Overtime\V_Report.php 56
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Jumlah D:\Projects\master-overtime\application\views\Overtime\V_Report.php 57
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Tanggal D:\Projects\master-overtime\application\views\Overtime\V_Report.php 56
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Jumlah D:\Projects\master-overtime\application\views\Overtime\V_Report.php 57
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Tanggal D:\Projects\master-overtime\application\views\Overtime\V_Report.php 56
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Jumlah D:\Projects\master-overtime\application\views\Overtime\V_Report.php 57
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Tanggal D:\Projects\master-overtime\application\views\Overtime\V_Report.php 56
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Jumlah D:\Projects\master-overtime\application\views\Overtime\V_Report.php 57
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Tanggal D:\Projects\master-overtime\application\views\Overtime\V_Report.php 56
+ERROR - 2018-02-04 06:39:40 --> Severity: Notice --> Undefined property: stdClass::$Jumlah D:\Projects\master-overtime\application\views\Overtime\V_Report.php 57
+ERROR - 2018-02-04 06:45:57 --> Severity: Notice --> Undefined property: stdClass::$Id_d_overtime D:\Projects\master-overtime\application\views\Overtime\V_Report.php 61
+ERROR - 2018-02-04 06:45:57 --> Severity: Notice --> Undefined property: stdClass::$Id_d_overtime D:\Projects\master-overtime\application\views\Overtime\V_Report.php 61
+ERROR - 2018-02-04 06:45:57 --> Severity: Notice --> Undefined property: stdClass::$Id_d_overtime D:\Projects\master-overtime\application\views\Overtime\V_Report.php 61
+ERROR - 2018-02-04 06:45:57 --> Severity: Notice --> Undefined property: stdClass::$Id_d_overtime D:\Projects\master-overtime\application\views\Overtime\V_Report.php 61
+ERROR - 2018-02-04 06:45:57 --> Severity: Notice --> Undefined property: stdClass::$Id_d_overtime D:\Projects\master-overtime\application\views\Overtime\V_Report.php 61
+ERROR - 2018-02-04 06:45:57 --> Severity: Notice --> Undefined property: stdClass::$Id_d_overtime D:\Projects\master-overtime\application\views\Overtime\V_Report.php 61
+ERROR - 2018-02-04 06:45:57 --> Severity: Notice --> Undefined property: stdClass::$Id_d_overtime D:\Projects\master-overtime\application\views\Overtime\V_Report.php 61
+ERROR - 2018-02-04 06:45:57 --> Severity: Notice --> Undefined property: stdClass::$Id_d_overtime D:\Projects\master-overtime\application\views\Overtime\V_Report.php 61
+ERROR - 2018-02-04 06:45:57 --> Severity: Notice --> Undefined property: stdClass::$Id_d_overtime D:\Projects\master-overtime\application\views\Overtime\V_Report.php 61
+ERROR - 2018-02-04 06:45:57 --> Severity: Notice --> Undefined property: stdClass::$Id_d_overtime D:\Projects\master-overtime\application\views\Overtime\V_Report.php 61
+ERROR - 2018-02-04 06:45:57 --> Severity: Notice --> Undefined property: stdClass::$Id_d_overtime D:\Projects\master-overtime\application\views\Overtime\V_Report.php 61
+ERROR - 2018-02-04 06:45:57 --> Severity: Notice --> Undefined property: stdClass::$Id_d_overtime D:\Projects\master-overtime\application\views\Overtime\V_Report.php 61
+ERROR - 2018-02-04 06:46:29 --> Severity: Notice --> Undefined property: stdClass::$id_d_lembur D:\Projects\master-overtime\application\views\Overtime\V_Report.php 61
+ERROR - 2018-02-04 06:46:29 --> Severity: Notice --> Undefined property: stdClass::$id_d_lembur D:\Projects\master-overtime\application\views\Overtime\V_Report.php 61
+ERROR - 2018-02-04 06:46:29 --> Severity: Notice --> Undefined property: stdClass::$id_d_lembur D:\Projects\master-overtime\application\views\Overtime\V_Report.php 61
+ERROR - 2018-02-04 06:46:29 --> Severity: Notice --> Undefined property: stdClass::$id_d_lembur D:\Projects\master-overtime\application\views\Overtime\V_Report.php 61
+ERROR - 2018-02-04 06:46:29 --> Severity: Notice --> Undefined property: stdClass::$id_d_lembur D:\Projects\master-overtime\application\views\Overtime\V_Report.php 61
+ERROR - 2018-02-04 06:46:29 --> Severity: Notice --> Undefined property: stdClass::$id_d_lembur D:\Projects\master-overtime\application\views\Overtime\V_Report.php 61
+ERROR - 2018-02-04 06:46:29 --> Severity: Notice --> Undefined property: stdClass::$id_d_lembur D:\Projects\master-overtime\application\views\Overtime\V_Report.php 61
+ERROR - 2018-02-04 06:46:29 --> Severity: Notice --> Undefined property: stdClass::$id_d_lembur D:\Projects\master-overtime\application\views\Overtime\V_Report.php 61
+ERROR - 2018-02-04 06:46:29 --> Severity: Notice --> Undefined property: stdClass::$id_d_lembur D:\Projects\master-overtime\application\views\Overtime\V_Report.php 61
+ERROR - 2018-02-04 06:46:29 --> Severity: Notice --> Undefined property: stdClass::$id_d_lembur D:\Projects\master-overtime\application\views\Overtime\V_Report.php 61
+ERROR - 2018-02-04 06:46:29 --> Severity: Notice --> Undefined property: stdClass::$id_d_lembur D:\Projects\master-overtime\application\views\Overtime\V_Report.php 61
+ERROR - 2018-02-04 06:46:29 --> Severity: Notice --> Undefined property: stdClass::$id_d_lembur D:\Projects\master-overtime\application\views\Overtime\V_Report.php 61
+ERROR - 2018-02-04 06:48:20 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report.php 69
+ERROR - 2018-02-04 06:48:20 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:48:20 --> Severity: Notice --> Undefined property: stdClass::$Output_Min D:\Projects\master-overtime\application\views\Overtime\V_Report.php 83
+ERROR - 2018-02-04 06:48:20 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report.php 69
+ERROR - 2018-02-04 06:48:20 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:48:20 --> Severity: Notice --> Undefined property: stdClass::$Output_Min D:\Projects\master-overtime\application\views\Overtime\V_Report.php 83
+ERROR - 2018-02-04 06:48:20 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report.php 69
+ERROR - 2018-02-04 06:48:20 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:48:20 --> Severity: Notice --> Undefined property: stdClass::$Output_Min D:\Projects\master-overtime\application\views\Overtime\V_Report.php 83
+ERROR - 2018-02-04 06:48:20 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report.php 69
+ERROR - 2018-02-04 06:48:20 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:48:20 --> Severity: Notice --> Undefined property: stdClass::$Output_Min D:\Projects\master-overtime\application\views\Overtime\V_Report.php 83
+ERROR - 2018-02-04 06:48:20 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report.php 69
+ERROR - 2018-02-04 06:48:20 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:48:20 --> Severity: Notice --> Undefined property: stdClass::$Output_Min D:\Projects\master-overtime\application\views\Overtime\V_Report.php 83
+ERROR - 2018-02-04 06:48:20 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report.php 69
+ERROR - 2018-02-04 06:48:20 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:48:20 --> Severity: Notice --> Undefined property: stdClass::$Output_Min D:\Projects\master-overtime\application\views\Overtime\V_Report.php 83
+ERROR - 2018-02-04 06:48:20 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report.php 69
+ERROR - 2018-02-04 06:48:20 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:48:20 --> Severity: Notice --> Undefined property: stdClass::$Output_Min D:\Projects\master-overtime\application\views\Overtime\V_Report.php 83
+ERROR - 2018-02-04 06:48:20 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report.php 69
+ERROR - 2018-02-04 06:48:20 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:48:20 --> Severity: Notice --> Undefined property: stdClass::$Output_Min D:\Projects\master-overtime\application\views\Overtime\V_Report.php 83
+ERROR - 2018-02-04 06:48:20 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report.php 69
+ERROR - 2018-02-04 06:48:20 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:48:20 --> Severity: Notice --> Undefined property: stdClass::$Output_Min D:\Projects\master-overtime\application\views\Overtime\V_Report.php 83
+ERROR - 2018-02-04 06:48:20 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report.php 69
+ERROR - 2018-02-04 06:48:20 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:48:20 --> Severity: Notice --> Undefined property: stdClass::$Output_Min D:\Projects\master-overtime\application\views\Overtime\V_Report.php 83
+ERROR - 2018-02-04 06:48:20 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report.php 69
+ERROR - 2018-02-04 06:48:20 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:48:20 --> Severity: Notice --> Undefined property: stdClass::$Output_Min D:\Projects\master-overtime\application\views\Overtime\V_Report.php 83
+ERROR - 2018-02-04 06:48:20 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report.php 69
+ERROR - 2018-02-04 06:48:20 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:48:20 --> Severity: Notice --> Undefined property: stdClass::$Output_Min D:\Projects\master-overtime\application\views\Overtime\V_Report.php 83
+ERROR - 2018-02-04 06:48:44 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report.php 69
+ERROR - 2018-02-04 06:48:44 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:48:44 --> Severity: Notice --> Undefined property: stdClass::$Output_Min D:\Projects\master-overtime\application\views\Overtime\V_Report.php 83
+ERROR - 2018-02-04 06:48:44 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report.php 69
+ERROR - 2018-02-04 06:48:44 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:48:44 --> Severity: Notice --> Undefined property: stdClass::$Output_Min D:\Projects\master-overtime\application\views\Overtime\V_Report.php 83
+ERROR - 2018-02-04 06:48:44 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report.php 69
+ERROR - 2018-02-04 06:48:44 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:48:44 --> Severity: Notice --> Undefined property: stdClass::$Output_Min D:\Projects\master-overtime\application\views\Overtime\V_Report.php 83
+ERROR - 2018-02-04 06:48:44 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report.php 69
+ERROR - 2018-02-04 06:48:44 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:48:44 --> Severity: Notice --> Undefined property: stdClass::$Output_Min D:\Projects\master-overtime\application\views\Overtime\V_Report.php 83
+ERROR - 2018-02-04 06:48:44 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report.php 69
+ERROR - 2018-02-04 06:48:44 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:48:44 --> Severity: Notice --> Undefined property: stdClass::$Output_Min D:\Projects\master-overtime\application\views\Overtime\V_Report.php 83
+ERROR - 2018-02-04 06:48:44 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report.php 69
+ERROR - 2018-02-04 06:48:44 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:48:44 --> Severity: Notice --> Undefined property: stdClass::$Output_Min D:\Projects\master-overtime\application\views\Overtime\V_Report.php 83
+ERROR - 2018-02-04 06:48:44 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report.php 69
+ERROR - 2018-02-04 06:48:44 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:48:44 --> Severity: Notice --> Undefined property: stdClass::$Output_Min D:\Projects\master-overtime\application\views\Overtime\V_Report.php 83
+ERROR - 2018-02-04 06:48:44 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report.php 69
+ERROR - 2018-02-04 06:48:44 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:48:44 --> Severity: Notice --> Undefined property: stdClass::$Output_Min D:\Projects\master-overtime\application\views\Overtime\V_Report.php 83
+ERROR - 2018-02-04 06:48:44 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report.php 69
+ERROR - 2018-02-04 06:48:44 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:48:44 --> Severity: Notice --> Undefined property: stdClass::$Output_Min D:\Projects\master-overtime\application\views\Overtime\V_Report.php 83
+ERROR - 2018-02-04 06:48:44 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report.php 69
+ERROR - 2018-02-04 06:48:44 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:48:44 --> Severity: Notice --> Undefined property: stdClass::$Output_Min D:\Projects\master-overtime\application\views\Overtime\V_Report.php 83
+ERROR - 2018-02-04 06:48:44 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report.php 69
+ERROR - 2018-02-04 06:48:44 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:48:44 --> Severity: Notice --> Undefined property: stdClass::$Output_Min D:\Projects\master-overtime\application\views\Overtime\V_Report.php 83
+ERROR - 2018-02-04 06:48:44 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report.php 69
+ERROR - 2018-02-04 06:48:44 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:48:44 --> Severity: Notice --> Undefined property: stdClass::$Output_Min D:\Projects\master-overtime\application\views\Overtime\V_Report.php 83
+ERROR - 2018-02-04 06:49:02 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report.php 69
+ERROR - 2018-02-04 06:49:02 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:49:02 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report.php 69
+ERROR - 2018-02-04 06:49:02 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:49:02 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report.php 69
+ERROR - 2018-02-04 06:49:02 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:49:02 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report.php 69
+ERROR - 2018-02-04 06:49:02 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:49:02 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report.php 69
+ERROR - 2018-02-04 06:49:02 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:49:02 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report.php 69
+ERROR - 2018-02-04 06:49:02 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:49:02 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report.php 69
+ERROR - 2018-02-04 06:49:02 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:49:02 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report.php 69
+ERROR - 2018-02-04 06:49:02 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:49:02 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report.php 69
+ERROR - 2018-02-04 06:49:02 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:49:02 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report.php 69
+ERROR - 2018-02-04 06:49:02 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:49:02 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report.php 69
+ERROR - 2018-02-04 06:49:02 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:49:02 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report.php 69
+ERROR - 2018-02-04 06:49:02 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:49:30 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:49:30 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:49:30 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:49:30 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:49:30 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:49:30 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:49:30 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:49:30 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:49:30 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:49:30 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:49:30 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:49:30 --> Severity: Notice --> Undefined property: stdClass::$Output_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 77
+ERROR - 2018-02-04 06:55:19 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report_Produksi.php 61
+ERROR - 2018-02-04 06:55:19 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report_Produksi.php 61
+ERROR - 2018-02-04 06:55:19 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report_Produksi.php 61
+ERROR - 2018-02-04 06:55:19 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report_Produksi.php 61
+ERROR - 2018-02-04 06:55:19 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report_Produksi.php 61
+ERROR - 2018-02-04 06:55:19 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report_Produksi.php 61
+ERROR - 2018-02-04 06:55:19 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report_Produksi.php 61
+ERROR - 2018-02-04 06:55:19 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report_Produksi.php 61
+ERROR - 2018-02-04 06:55:19 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report_Produksi.php 61
+ERROR - 2018-02-04 06:55:19 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report_Produksi.php 61
+ERROR - 2018-02-04 06:55:19 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report_Produksi.php 61
+ERROR - 2018-02-04 06:55:19 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report_Produksi.php 61
+ERROR - 2018-02-04 06:56:30 --> Severity: Compile Error --> Cannot redeclare Movertime::GetDataOvertime() D:\Projects\master-overtime\application\models\MOvertime.php 36
+ERROR - 2018-02-04 22:20:22 --> Query error: Unknown column 'Jumlah' in 'field list' - Invalid query: SELECT SUM(`Jumlah`) AS `Jumlah`
+FROM `ak_barang`
+WHERE `Jenis_barang` = 'Bahan Baku'
+ORDER BY `Kode_barang` ASC

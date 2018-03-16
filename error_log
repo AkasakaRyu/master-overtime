@@ -1,0 +1,4 @@
+[27-Jan-2018 22:01:36 Asia/Jakarta] PHP Fatal error:  Call to a member function GetPersediaanMinMax() on null in /home/fathtech/public_html/master-inventory/application/controllers/Dashboard.php on line 54
+[27-Jan-2018 22:04:36 Asia/Jakarta] PHP Fatal error:  Call to a member function GetPersediaanMinMax() on null in /home/fathtech/public_html/master-inventory/application/controllers/Dashboard.php on line 54
+[27-Jan-2018 22:10:55 Asia/Jakarta] PHP Fatal error:  Call to undefined method MPersediaan::GetBaranag() in /home/fathtech/public_html/master-inventory/application/controllers/Dashboard.php on line 55
+[27-Jan-2018 22:13:13 Asia/Jakarta] PHP Fatal error:  Call to undefined method Movertime::GetOvertimeMinMax() in /home/fathtech/public_html/master-inventory/application/controllers/Dashboard.php on line 27

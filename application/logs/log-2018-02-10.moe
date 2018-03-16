@@ -1,0 +1,6 @@
+ERROR - 2018-02-10 22:19:43 --> Query error: Unknown column 'ak_barang.Id_d_permintaan' in 'order clause' - Invalid query: SELECT *
+FROM `ak_barang`
+JOIN `ak_data_permintaan` ON `ak_barang`.`Id_barang`=`ak_data_permintaan`.`Id_barang`
+JOIN `ak_data_persediaan` ON `ak_data_persediaan`.`Id_d_permintaan`=`ak_data_permintaan`.`Id_d_permintaan`
+ORDER BY `ak_barang`.`Id_d_permintaan` DESC
+ERROR - 2018-02-10 22:26:00 --> Severity: Notice --> Undefined variable: a D:\Projects\master-overtime\application\models\MOrder.php 97

@@ -1,0 +1,1330 @@
+ERROR - 2018-01-27 00:02:15 --> Severity: Parsing Error --> syntax error, unexpected ''<br />'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' D:\Projects\master-overtime\application\models\MPermintaan.php 57
+ERROR - 2018-01-27 00:52:16 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 00:52:17 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 00:52:22 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 00:52:23 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 00:52:29 --> Severity: Notice --> Undefined property: stdClass::$Nama_Output D:\Projects\master-overtime\application\views\Output\V_Output.php 78
+ERROR - 2018-01-27 00:52:29 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Output\V_Output.php 84
+ERROR - 2018-01-27 00:52:29 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 91
+ERROR - 2018-01-27 00:52:29 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 92
+ERROR - 2018-01-27 00:52:29 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 93
+ERROR - 2018-01-27 00:52:29 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 94
+ERROR - 2018-01-27 00:52:29 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 95
+ERROR - 2018-01-27 00:52:29 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 96
+ERROR - 2018-01-27 00:52:29 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 97
+ERROR - 2018-01-27 00:52:29 --> Severity: Notice --> Undefined property: stdClass::$Nama_Output D:\Projects\master-overtime\application\views\Output\V_Output.php 116
+ERROR - 2018-01-27 00:52:30 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 00:52:35 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 00:52:41 --> Severity: Notice --> Undefined property: stdClass::$Nama_Output D:\Projects\master-overtime\application\views\Output\V_Output.php 78
+ERROR - 2018-01-27 00:52:41 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Output\V_Output.php 84
+ERROR - 2018-01-27 00:52:41 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 91
+ERROR - 2018-01-27 00:52:41 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 92
+ERROR - 2018-01-27 00:52:41 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 93
+ERROR - 2018-01-27 00:52:41 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 94
+ERROR - 2018-01-27 00:52:41 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 95
+ERROR - 2018-01-27 00:52:41 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 96
+ERROR - 2018-01-27 00:52:41 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 97
+ERROR - 2018-01-27 00:52:41 --> Severity: Notice --> Undefined property: stdClass::$Nama_Output D:\Projects\master-overtime\application\views\Output\V_Output.php 116
+ERROR - 2018-01-27 00:52:41 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 00:52:42 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 00:57:37 --> Severity: Notice --> Undefined property: stdClass::$Nama_Output D:\Projects\master-overtime\application\views\Output\V_Output.php 78
+ERROR - 2018-01-27 00:57:37 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Output\V_Output.php 84
+ERROR - 2018-01-27 00:57:37 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 91
+ERROR - 2018-01-27 00:57:37 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 92
+ERROR - 2018-01-27 00:57:37 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 93
+ERROR - 2018-01-27 00:57:37 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 94
+ERROR - 2018-01-27 00:57:37 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 95
+ERROR - 2018-01-27 00:57:37 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 96
+ERROR - 2018-01-27 00:57:37 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 97
+ERROR - 2018-01-27 00:57:37 --> Severity: Notice --> Undefined property: stdClass::$Nama_Output D:\Projects\master-overtime\application\views\Output\V_Output.php 116
+ERROR - 2018-01-27 00:57:38 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 00:57:39 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 00:58:25 --> Severity: Notice --> Undefined property: stdClass::$Nama_Output D:\Projects\master-overtime\application\views\Output\V_Output.php 78
+ERROR - 2018-01-27 00:58:25 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Output\V_Output.php 84
+ERROR - 2018-01-27 00:58:25 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 91
+ERROR - 2018-01-27 00:58:25 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 92
+ERROR - 2018-01-27 00:58:25 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 93
+ERROR - 2018-01-27 00:58:25 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 94
+ERROR - 2018-01-27 00:58:25 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 95
+ERROR - 2018-01-27 00:58:25 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 96
+ERROR - 2018-01-27 00:58:25 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 97
+ERROR - 2018-01-27 00:58:25 --> Severity: Notice --> Undefined property: stdClass::$Nama_Output D:\Projects\master-overtime\application\views\Output\V_Output.php 116
+ERROR - 2018-01-27 00:58:26 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 00:58:26 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 00:58:31 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 71
+ERROR - 2018-01-27 00:58:31 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 79
+ERROR - 2018-01-27 00:58:31 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Order\V_Order.php 85
+ERROR - 2018-01-27 00:58:31 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 92
+ERROR - 2018-01-27 00:58:31 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 93
+ERROR - 2018-01-27 00:58:31 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 94
+ERROR - 2018-01-27 00:58:31 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 95
+ERROR - 2018-01-27 00:58:31 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 96
+ERROR - 2018-01-27 00:58:31 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 97
+ERROR - 2018-01-27 00:58:31 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 98
+ERROR - 2018-01-27 00:58:31 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 117
+ERROR - 2018-01-27 00:58:32 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 00:58:32 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 00:58:40 --> 404 Page Not Found: Permintaan/order_data
+ERROR - 2018-01-27 00:59:03 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 00:59:04 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 00:59:26 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 71
+ERROR - 2018-01-27 00:59:26 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 79
+ERROR - 2018-01-27 00:59:26 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Order\V_Order.php 85
+ERROR - 2018-01-27 00:59:26 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 92
+ERROR - 2018-01-27 00:59:26 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 93
+ERROR - 2018-01-27 00:59:26 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 94
+ERROR - 2018-01-27 00:59:26 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 95
+ERROR - 2018-01-27 00:59:26 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 96
+ERROR - 2018-01-27 00:59:26 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 97
+ERROR - 2018-01-27 00:59:26 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 98
+ERROR - 2018-01-27 00:59:26 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 117
+ERROR - 2018-01-27 00:59:26 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 00:59:27 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 00:59:35 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE `Id_d_permintaan` = '1'' at line 2 - Invalid query: SELECT *
+WHERE `Id_d_permintaan` = '1'
+ERROR - 2018-01-27 01:00:02 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 71
+ERROR - 2018-01-27 01:00:02 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 79
+ERROR - 2018-01-27 01:00:02 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Order\V_Order.php 85
+ERROR - 2018-01-27 01:00:02 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 92
+ERROR - 2018-01-27 01:00:02 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 93
+ERROR - 2018-01-27 01:00:02 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 94
+ERROR - 2018-01-27 01:00:02 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 95
+ERROR - 2018-01-27 01:00:02 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 96
+ERROR - 2018-01-27 01:00:02 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 97
+ERROR - 2018-01-27 01:00:02 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 98
+ERROR - 2018-01-27 01:00:02 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 117
+ERROR - 2018-01-27 01:00:03 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:00:04 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:00:32 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:00:39 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 71
+ERROR - 2018-01-27 01:00:39 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 79
+ERROR - 2018-01-27 01:00:39 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Order\V_Order.php 85
+ERROR - 2018-01-27 01:00:39 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 92
+ERROR - 2018-01-27 01:00:39 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 93
+ERROR - 2018-01-27 01:00:39 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 94
+ERROR - 2018-01-27 01:00:39 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 95
+ERROR - 2018-01-27 01:00:39 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 96
+ERROR - 2018-01-27 01:00:39 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 97
+ERROR - 2018-01-27 01:00:39 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 98
+ERROR - 2018-01-27 01:00:39 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 117
+ERROR - 2018-01-27 01:00:39 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:00:40 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:00:46 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:01:28 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:01:32 --> Severity: Notice --> Undefined property: stdClass::$Nama_Output D:\Projects\master-overtime\application\views\Output\V_Output.php 78
+ERROR - 2018-01-27 01:01:32 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Output\V_Output.php 84
+ERROR - 2018-01-27 01:01:32 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 91
+ERROR - 2018-01-27 01:01:32 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 92
+ERROR - 2018-01-27 01:01:32 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 93
+ERROR - 2018-01-27 01:01:32 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 94
+ERROR - 2018-01-27 01:01:32 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 95
+ERROR - 2018-01-27 01:01:32 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 96
+ERROR - 2018-01-27 01:01:32 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 97
+ERROR - 2018-01-27 01:01:32 --> Severity: Notice --> Undefined property: stdClass::$Nama_Output D:\Projects\master-overtime\application\views\Output\V_Output.php 116
+ERROR - 2018-01-27 01:01:32 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:01:33 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:01:51 --> Severity: Notice --> Undefined property: stdClass::$Nama_Output D:\Projects\master-overtime\application\views\Output\V_Output.php 78
+ERROR - 2018-01-27 01:01:51 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Output\V_Output.php 84
+ERROR - 2018-01-27 01:01:51 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 91
+ERROR - 2018-01-27 01:01:51 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 92
+ERROR - 2018-01-27 01:01:51 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 93
+ERROR - 2018-01-27 01:01:51 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 94
+ERROR - 2018-01-27 01:01:51 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 95
+ERROR - 2018-01-27 01:01:51 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 96
+ERROR - 2018-01-27 01:01:51 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 97
+ERROR - 2018-01-27 01:01:51 --> Severity: Notice --> Undefined property: stdClass::$Nama_Output D:\Projects\master-overtime\application\views\Output\V_Output.php 116
+ERROR - 2018-01-27 01:01:52 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:01:58 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:01:59 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:02:08 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:02:09 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:02:17 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 71
+ERROR - 2018-01-27 01:02:17 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 79
+ERROR - 2018-01-27 01:02:17 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Order\V_Order.php 85
+ERROR - 2018-01-27 01:02:17 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 92
+ERROR - 2018-01-27 01:02:17 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 93
+ERROR - 2018-01-27 01:02:17 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 94
+ERROR - 2018-01-27 01:02:17 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 95
+ERROR - 2018-01-27 01:02:17 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 96
+ERROR - 2018-01-27 01:02:17 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 97
+ERROR - 2018-01-27 01:02:17 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 98
+ERROR - 2018-01-27 01:02:17 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 117
+ERROR - 2018-01-27 01:02:18 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:02:53 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 71
+ERROR - 2018-01-27 01:02:53 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 79
+ERROR - 2018-01-27 01:02:53 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Order\V_Order.php 85
+ERROR - 2018-01-27 01:02:53 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 92
+ERROR - 2018-01-27 01:02:54 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 93
+ERROR - 2018-01-27 01:02:54 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 94
+ERROR - 2018-01-27 01:02:54 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 95
+ERROR - 2018-01-27 01:02:54 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 96
+ERROR - 2018-01-27 01:02:54 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 97
+ERROR - 2018-01-27 01:02:54 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 98
+ERROR - 2018-01-27 01:02:54 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 117
+ERROR - 2018-01-27 01:02:54 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:03:33 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 71
+ERROR - 2018-01-27 01:03:33 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 79
+ERROR - 2018-01-27 01:03:33 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Order\V_Order.php 85
+ERROR - 2018-01-27 01:03:33 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 92
+ERROR - 2018-01-27 01:03:33 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 93
+ERROR - 2018-01-27 01:03:33 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 94
+ERROR - 2018-01-27 01:03:33 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 95
+ERROR - 2018-01-27 01:03:33 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 96
+ERROR - 2018-01-27 01:03:33 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 97
+ERROR - 2018-01-27 01:03:33 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 98
+ERROR - 2018-01-27 01:03:33 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 117
+ERROR - 2018-01-27 01:03:33 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:03:57 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 71
+ERROR - 2018-01-27 01:03:57 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 79
+ERROR - 2018-01-27 01:03:57 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Order\V_Order.php 85
+ERROR - 2018-01-27 01:03:57 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 92
+ERROR - 2018-01-27 01:03:57 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 93
+ERROR - 2018-01-27 01:03:57 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 94
+ERROR - 2018-01-27 01:03:57 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 95
+ERROR - 2018-01-27 01:03:57 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 96
+ERROR - 2018-01-27 01:03:57 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 97
+ERROR - 2018-01-27 01:03:57 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 98
+ERROR - 2018-01-27 01:03:57 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 117
+ERROR - 2018-01-27 01:03:57 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:04:07 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 71
+ERROR - 2018-01-27 01:04:07 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 79
+ERROR - 2018-01-27 01:04:07 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Order\V_Order.php 85
+ERROR - 2018-01-27 01:04:07 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 92
+ERROR - 2018-01-27 01:04:07 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 93
+ERROR - 2018-01-27 01:04:07 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 94
+ERROR - 2018-01-27 01:04:07 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 95
+ERROR - 2018-01-27 01:04:07 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 96
+ERROR - 2018-01-27 01:04:07 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 97
+ERROR - 2018-01-27 01:04:07 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 98
+ERROR - 2018-01-27 01:04:07 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 117
+ERROR - 2018-01-27 01:04:08 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:04:09 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:06:08 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 71
+ERROR - 2018-01-27 01:06:08 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 79
+ERROR - 2018-01-27 01:06:08 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Order\V_Order.php 85
+ERROR - 2018-01-27 01:06:08 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 92
+ERROR - 2018-01-27 01:06:08 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 93
+ERROR - 2018-01-27 01:06:08 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 94
+ERROR - 2018-01-27 01:06:08 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 95
+ERROR - 2018-01-27 01:06:08 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 96
+ERROR - 2018-01-27 01:06:08 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 97
+ERROR - 2018-01-27 01:06:08 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 98
+ERROR - 2018-01-27 01:06:08 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 117
+ERROR - 2018-01-27 01:06:09 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:06:09 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:06:34 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 71
+ERROR - 2018-01-27 01:06:34 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 79
+ERROR - 2018-01-27 01:06:35 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Order\V_Order.php 85
+ERROR - 2018-01-27 01:06:35 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 92
+ERROR - 2018-01-27 01:06:35 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 93
+ERROR - 2018-01-27 01:06:35 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 94
+ERROR - 2018-01-27 01:06:35 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 95
+ERROR - 2018-01-27 01:06:35 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 96
+ERROR - 2018-01-27 01:06:35 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 97
+ERROR - 2018-01-27 01:06:35 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 98
+ERROR - 2018-01-27 01:06:35 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 117
+ERROR - 2018-01-27 01:06:35 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:06:36 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:07:07 --> 404 Page Not Found: Overtime/report
+ERROR - 2018-01-27 01:07:26 --> 404 Page Not Found: Overtime/report
+ERROR - 2018-01-27 01:07:45 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:07:46 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:11:43 --> Query error: Unknown column 'ak_data_permintaan.Nama_barang' in 'on clause' - Invalid query: SELECT *
+FROM `ak_data_overtime`
+JOIN `ak_barang` ON `ak_barang`.`Id_barang`=`ak_data_permintaan`.`Nama_barang`
+JOIN `ak_data_permintaan` ON `ak_data_permintaan`.`Id_d_permintaan`=`ak_data_overtime`.`Id_d_permintaan`
+ERROR - 2018-01-27 01:15:26 --> Severity: Notice --> Undefined property: stdClass::$Overtime_Max D:\Projects\master-overtime\application\views\Overtime\V_Overtime.php 53
+ERROR - 2018-01-27 01:15:26 --> Severity: Notice --> Undefined property: stdClass::$Overtime_Min D:\Projects\master-overtime\application\views\Overtime\V_Overtime.php 54
+ERROR - 2018-01-27 01:15:26 --> Severity: Notice --> Undefined property: stdClass::$Id_barang D:\Projects\master-overtime\application\views\Overtime\V_Overtime.php 56
+ERROR - 2018-01-27 01:15:26 --> Severity: Notice --> Undefined property: stdClass::$Id_barang D:\Projects\master-overtime\application\views\Overtime\V_Overtime.php 59
+ERROR - 2018-01-27 01:15:26 --> Severity: Notice --> Undefined property: stdClass::$Id_barang D:\Projects\master-overtime\application\views\Overtime\V_Overtime.php 66
+ERROR - 2018-01-27 01:15:26 --> Severity: Notice --> Undefined property: stdClass::$Overtime_Max D:\Projects\master-overtime\application\views\Overtime\V_Overtime.php 72
+ERROR - 2018-01-27 01:15:26 --> Severity: Notice --> Undefined property: stdClass::$Overtime_Min D:\Projects\master-overtime\application\views\Overtime\V_Overtime.php 78
+ERROR - 2018-01-27 01:15:27 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:15:27 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:17:59 --> Severity: Notice --> Undefined property: stdClass::$Id_barang D:\Projects\master-overtime\application\views\Overtime\V_Report.php 57
+ERROR - 2018-01-27 01:17:59 --> Severity: Notice --> Undefined property: stdClass::$Id_barang D:\Projects\master-overtime\application\views\Overtime\V_Report.php 60
+ERROR - 2018-01-27 01:17:59 --> Severity: Notice --> Undefined property: stdClass::$Id_barang D:\Projects\master-overtime\application\views\Overtime\V_Report.php 67
+ERROR - 2018-01-27 01:17:59 --> Severity: Notice --> Undefined property: stdClass::$Overtime_Max D:\Projects\master-overtime\application\views\Overtime\V_Report.php 73
+ERROR - 2018-01-27 01:17:59 --> Severity: Notice --> Undefined property: stdClass::$Overtime_Min D:\Projects\master-overtime\application\views\Overtime\V_Report.php 79
+ERROR - 2018-01-27 01:18:00 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:18:01 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:18:29 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:18:30 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:19:12 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:19:12 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:19:34 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:19:51 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:21:51 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:22:12 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 71
+ERROR - 2018-01-27 01:22:12 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 79
+ERROR - 2018-01-27 01:22:12 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Order\V_Order.php 85
+ERROR - 2018-01-27 01:22:12 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 92
+ERROR - 2018-01-27 01:22:12 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 93
+ERROR - 2018-01-27 01:22:12 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 94
+ERROR - 2018-01-27 01:22:12 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 95
+ERROR - 2018-01-27 01:22:12 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 96
+ERROR - 2018-01-27 01:22:12 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 97
+ERROR - 2018-01-27 01:22:12 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 98
+ERROR - 2018-01-27 01:22:12 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 117
+ERROR - 2018-01-27 01:22:13 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:22:15 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:22:27 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:22:31 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:22:32 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:22:48 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 71
+ERROR - 2018-01-27 01:22:48 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 79
+ERROR - 2018-01-27 01:22:48 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Order\V_Order.php 85
+ERROR - 2018-01-27 01:22:48 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 92
+ERROR - 2018-01-27 01:22:48 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 93
+ERROR - 2018-01-27 01:22:48 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 94
+ERROR - 2018-01-27 01:22:48 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 95
+ERROR - 2018-01-27 01:22:48 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 96
+ERROR - 2018-01-27 01:22:48 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 97
+ERROR - 2018-01-27 01:22:48 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 98
+ERROR - 2018-01-27 01:22:48 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 117
+ERROR - 2018-01-27 01:22:48 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:22:49 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:22:52 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:22:53 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:22:57 --> Severity: Notice --> Undefined property: stdClass::$Nama_Output D:\Projects\master-overtime\application\views\Output\V_Output.php 78
+ERROR - 2018-01-27 01:22:57 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Output\V_Output.php 84
+ERROR - 2018-01-27 01:22:57 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 91
+ERROR - 2018-01-27 01:22:57 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 92
+ERROR - 2018-01-27 01:22:57 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 93
+ERROR - 2018-01-27 01:22:57 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 94
+ERROR - 2018-01-27 01:22:57 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 95
+ERROR - 2018-01-27 01:22:57 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 96
+ERROR - 2018-01-27 01:22:57 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 97
+ERROR - 2018-01-27 01:22:57 --> Severity: Notice --> Undefined property: stdClass::$Nama_Output D:\Projects\master-overtime\application\views\Output\V_Output.php 116
+ERROR - 2018-01-27 01:22:58 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:22:59 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:23:04 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:23:05 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:23:11 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:23:12 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:23:33 --> 404 Page Not Found: Dashboard/kepala_produksi
+ERROR - 2018-01-27 01:24:29 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:24:30 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:25:05 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:25:06 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:25:40 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:25:41 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:27:13 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:27:14 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:27:49 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:27:50 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:28:23 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:28:23 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:29:12 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:29:13 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:30:58 --> Severity: Notice --> Undefined variable: Overtime D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 31
+ERROR - 2018-01-27 01:30:58 --> Severity: Warning --> Invalid argument supplied for foreach() D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 31
+ERROR - 2018-01-27 01:30:59 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:31:00 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:31:39 --> Severity: Notice --> Undefined property: stdClass::$Tanggal D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 35
+ERROR - 2018-01-27 01:31:39 --> Severity: Notice --> Undefined property: stdClass::$Nama D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 36
+ERROR - 2018-01-27 01:31:39 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 37
+ERROR - 2018-01-27 01:31:39 --> Severity: Notice --> Undefined property: stdClass::$Jumlah D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 38
+ERROR - 2018-01-27 01:31:39 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_jam D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 39
+ERROR - 2018-01-27 01:31:39 --> Severity: Notice --> Undefined property: stdClass::$Status D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 40
+ERROR - 2018-01-27 01:31:39 --> Severity: Notice --> Undefined property: stdClass::$Tanggal D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 35
+ERROR - 2018-01-27 01:31:39 --> Severity: Notice --> Undefined property: stdClass::$Nama D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 36
+ERROR - 2018-01-27 01:31:39 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 37
+ERROR - 2018-01-27 01:31:39 --> Severity: Notice --> Undefined property: stdClass::$Jumlah D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 38
+ERROR - 2018-01-27 01:31:39 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_jam D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 39
+ERROR - 2018-01-27 01:31:39 --> Severity: Notice --> Undefined property: stdClass::$Status D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 40
+ERROR - 2018-01-27 01:31:39 --> Severity: Notice --> Undefined property: stdClass::$Tanggal D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 35
+ERROR - 2018-01-27 01:31:39 --> Severity: Notice --> Undefined property: stdClass::$Nama D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 36
+ERROR - 2018-01-27 01:31:39 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 37
+ERROR - 2018-01-27 01:31:39 --> Severity: Notice --> Undefined property: stdClass::$Jumlah D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 38
+ERROR - 2018-01-27 01:31:39 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_jam D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 39
+ERROR - 2018-01-27 01:31:39 --> Severity: Notice --> Undefined property: stdClass::$Status D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 40
+ERROR - 2018-01-27 01:31:39 --> Severity: Notice --> Undefined property: stdClass::$Tanggal D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 35
+ERROR - 2018-01-27 01:31:39 --> Severity: Notice --> Undefined property: stdClass::$Nama D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 36
+ERROR - 2018-01-27 01:31:39 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 37
+ERROR - 2018-01-27 01:31:39 --> Severity: Notice --> Undefined property: stdClass::$Jumlah D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 38
+ERROR - 2018-01-27 01:31:39 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_jam D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 39
+ERROR - 2018-01-27 01:31:39 --> Severity: Notice --> Undefined property: stdClass::$Status D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 40
+ERROR - 2018-01-27 01:31:39 --> Severity: Notice --> Undefined property: stdClass::$Tanggal D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 35
+ERROR - 2018-01-27 01:31:39 --> Severity: Notice --> Undefined property: stdClass::$Nama D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 36
+ERROR - 2018-01-27 01:31:39 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 37
+ERROR - 2018-01-27 01:31:39 --> Severity: Notice --> Undefined property: stdClass::$Jumlah D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 38
+ERROR - 2018-01-27 01:31:39 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_jam D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 39
+ERROR - 2018-01-27 01:31:39 --> Severity: Notice --> Undefined property: stdClass::$Status D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 40
+ERROR - 2018-01-27 01:31:39 --> Severity: Notice --> Undefined property: stdClass::$Tanggal D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 35
+ERROR - 2018-01-27 01:31:39 --> Severity: Notice --> Undefined property: stdClass::$Nama D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 36
+ERROR - 2018-01-27 01:31:39 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 37
+ERROR - 2018-01-27 01:31:39 --> Severity: Notice --> Undefined property: stdClass::$Jumlah D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 38
+ERROR - 2018-01-27 01:31:39 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_jam D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 39
+ERROR - 2018-01-27 01:31:39 --> Severity: Notice --> Undefined property: stdClass::$Status D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 40
+ERROR - 2018-01-27 01:31:40 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:31:41 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:31:52 --> Severity: Notice --> Undefined property: stdClass::$Tanggal D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 35
+ERROR - 2018-01-27 01:31:52 --> Severity: Notice --> Undefined property: stdClass::$Nama D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 36
+ERROR - 2018-01-27 01:31:52 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 37
+ERROR - 2018-01-27 01:31:52 --> Severity: Notice --> Undefined property: stdClass::$Jumlah D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 38
+ERROR - 2018-01-27 01:31:52 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_jam D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 39
+ERROR - 2018-01-27 01:31:52 --> Severity: Notice --> Undefined property: stdClass::$Status D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 40
+ERROR - 2018-01-27 01:31:52 --> Severity: Notice --> Undefined property: stdClass::$Tanggal D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 35
+ERROR - 2018-01-27 01:31:52 --> Severity: Notice --> Undefined property: stdClass::$Nama D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 36
+ERROR - 2018-01-27 01:31:52 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 37
+ERROR - 2018-01-27 01:31:52 --> Severity: Notice --> Undefined property: stdClass::$Jumlah D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 38
+ERROR - 2018-01-27 01:31:52 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_jam D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 39
+ERROR - 2018-01-27 01:31:52 --> Severity: Notice --> Undefined property: stdClass::$Status D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 40
+ERROR - 2018-01-27 01:31:52 --> Severity: Notice --> Undefined property: stdClass::$Tanggal D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 35
+ERROR - 2018-01-27 01:31:52 --> Severity: Notice --> Undefined property: stdClass::$Nama D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 36
+ERROR - 2018-01-27 01:31:52 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 37
+ERROR - 2018-01-27 01:31:52 --> Severity: Notice --> Undefined property: stdClass::$Jumlah D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 38
+ERROR - 2018-01-27 01:31:52 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_jam D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 39
+ERROR - 2018-01-27 01:31:52 --> Severity: Notice --> Undefined property: stdClass::$Status D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 40
+ERROR - 2018-01-27 01:31:52 --> Severity: Notice --> Undefined property: stdClass::$Tanggal D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 35
+ERROR - 2018-01-27 01:31:52 --> Severity: Notice --> Undefined property: stdClass::$Nama D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 36
+ERROR - 2018-01-27 01:31:52 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 37
+ERROR - 2018-01-27 01:31:52 --> Severity: Notice --> Undefined property: stdClass::$Jumlah D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 38
+ERROR - 2018-01-27 01:31:52 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_jam D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 39
+ERROR - 2018-01-27 01:31:52 --> Severity: Notice --> Undefined property: stdClass::$Status D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 40
+ERROR - 2018-01-27 01:31:52 --> Severity: Notice --> Undefined property: stdClass::$Tanggal D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 35
+ERROR - 2018-01-27 01:31:52 --> Severity: Notice --> Undefined property: stdClass::$Nama D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 36
+ERROR - 2018-01-27 01:31:52 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 37
+ERROR - 2018-01-27 01:31:52 --> Severity: Notice --> Undefined property: stdClass::$Jumlah D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 38
+ERROR - 2018-01-27 01:31:52 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_jam D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 39
+ERROR - 2018-01-27 01:31:52 --> Severity: Notice --> Undefined property: stdClass::$Status D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 40
+ERROR - 2018-01-27 01:31:52 --> Severity: Notice --> Undefined property: stdClass::$Tanggal D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 35
+ERROR - 2018-01-27 01:31:52 --> Severity: Notice --> Undefined property: stdClass::$Nama D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 36
+ERROR - 2018-01-27 01:31:52 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 37
+ERROR - 2018-01-27 01:31:52 --> Severity: Notice --> Undefined property: stdClass::$Jumlah D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 38
+ERROR - 2018-01-27 01:31:52 --> Severity: Notice --> Undefined property: stdClass::$Jumlah_jam D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 39
+ERROR - 2018-01-27 01:31:52 --> Severity: Notice --> Undefined property: stdClass::$Status D:\Projects\master-overtime\application\views\Dashboard\V_Dashboard_Kepala_Produksi.php 40
+ERROR - 2018-01-27 01:31:53 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:32:22 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:33:07 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:33:07 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:33:36 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:34:47 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:34:48 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:35:06 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:35:07 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:36:38 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:36:56 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:36:57 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:39:04 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:39:05 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:40:21 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:40:22 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:40:33 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:40:33 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:40:41 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:41:38 --> Severity: Parsing Error --> syntax error, unexpected ':' D:\Projects\master-overtime\application\controllers\Overtime.php 7
+ERROR - 2018-01-27 01:42:11 --> Severity: Parsing Error --> syntax error, unexpected ':' D:\Projects\master-overtime\application\controllers\Overtime.php 7
+ERROR - 2018-01-27 01:42:24 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:42:25 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:42:33 --> Severity: Error --> Call to undefined method MAdmin::GeDataOvertime() D:\Projects\master-overtime\application\controllers\Dashboard.php 26
+ERROR - 2018-01-27 01:42:49 --> Severity: Error --> Call to undefined method Movertime::GeDataOvertime() D:\Projects\master-overtime\application\controllers\Dashboard.php 26
+ERROR - 2018-01-27 01:42:54 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:42:55 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:43:02 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:43:02 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:43:16 --> Severity: Error --> Call to undefined method Movertime::GeDataOvertime() D:\Projects\master-overtime\application\controllers\Dashboard.php 26
+ERROR - 2018-01-27 01:43:51 --> Severity: Error --> Call to undefined method Movertime::GeDataOvertime() D:\Projects\master-overtime\application\controllers\Dashboard.php 26
+ERROR - 2018-01-27 01:44:03 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:44:04 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:44:30 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:44:33 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:44:37 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:44:56 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:44:57 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:45:02 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:45:02 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:45:08 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:45:09 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:45:32 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:45:38 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:45:39 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:45:46 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:46:18 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:46:18 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:46:22 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 71
+ERROR - 2018-01-27 01:46:22 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 79
+ERROR - 2018-01-27 01:46:22 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Order\V_Order.php 85
+ERROR - 2018-01-27 01:46:22 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 92
+ERROR - 2018-01-27 01:46:22 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 93
+ERROR - 2018-01-27 01:46:22 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 94
+ERROR - 2018-01-27 01:46:22 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 95
+ERROR - 2018-01-27 01:46:22 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 96
+ERROR - 2018-01-27 01:46:22 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 97
+ERROR - 2018-01-27 01:46:22 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 98
+ERROR - 2018-01-27 01:46:22 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 117
+ERROR - 2018-01-27 01:46:23 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:46:23 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:46:34 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:46:35 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:46:47 --> Severity: Notice --> Undefined property: stdClass::$Nama_Output D:\Projects\master-overtime\application\views\Output\V_Output.php 78
+ERROR - 2018-01-27 01:46:47 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Output\V_Output.php 84
+ERROR - 2018-01-27 01:46:47 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 91
+ERROR - 2018-01-27 01:46:47 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 92
+ERROR - 2018-01-27 01:46:47 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 93
+ERROR - 2018-01-27 01:46:47 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 94
+ERROR - 2018-01-27 01:46:47 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 95
+ERROR - 2018-01-27 01:46:47 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 96
+ERROR - 2018-01-27 01:46:47 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 97
+ERROR - 2018-01-27 01:46:47 --> Severity: Notice --> Undefined property: stdClass::$Nama_Output D:\Projects\master-overtime\application\views\Output\V_Output.php 116
+ERROR - 2018-01-27 01:46:47 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:46:48 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:47:01 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:47:02 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:47:08 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:47:08 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:47:13 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:47:14 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:48:01 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:48:01 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:48:11 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:48:11 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:49:14 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 71
+ERROR - 2018-01-27 01:49:14 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 79
+ERROR - 2018-01-27 01:49:14 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Order\V_Order.php 85
+ERROR - 2018-01-27 01:49:14 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 92
+ERROR - 2018-01-27 01:49:14 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 93
+ERROR - 2018-01-27 01:49:14 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 94
+ERROR - 2018-01-27 01:49:14 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 95
+ERROR - 2018-01-27 01:49:14 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 96
+ERROR - 2018-01-27 01:49:14 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 97
+ERROR - 2018-01-27 01:49:14 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 98
+ERROR - 2018-01-27 01:49:14 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 117
+ERROR - 2018-01-27 01:49:14 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:49:15 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:49:19 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:49:19 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:49:23 --> Severity: Notice --> Undefined property: stdClass::$Nama_Output D:\Projects\master-overtime\application\views\Output\V_Output.php 78
+ERROR - 2018-01-27 01:49:23 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Output\V_Output.php 84
+ERROR - 2018-01-27 01:49:23 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 91
+ERROR - 2018-01-27 01:49:23 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 92
+ERROR - 2018-01-27 01:49:23 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 93
+ERROR - 2018-01-27 01:49:23 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 94
+ERROR - 2018-01-27 01:49:23 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 95
+ERROR - 2018-01-27 01:49:23 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 96
+ERROR - 2018-01-27 01:49:23 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 97
+ERROR - 2018-01-27 01:49:23 --> Severity: Notice --> Undefined property: stdClass::$Nama_Output D:\Projects\master-overtime\application\views\Output\V_Output.php 116
+ERROR - 2018-01-27 01:49:23 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:49:29 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:49:30 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:49:35 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:49:41 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:49:42 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:50:07 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:50:07 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:50:16 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:51:19 --> 404 Page Not Found: Produksi/overtime
+ERROR - 2018-01-27 01:51:29 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:51:34 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:58:06 --> 404 Page Not Found: Dashboard/quality_control
+ERROR - 2018-01-27 01:58:43 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:58:43 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:59:52 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 01:59:52 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:00:43 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:01:44 --> Severity: Parsing Error --> syntax error, unexpected 'join' (T_STRING) D:\Projects\master-overtime\application\models\MOvertime.php 24
+ERROR - 2018-01-27 02:01:54 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:01:55 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:03:52 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:03:53 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:04:32 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:04:33 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:05:18 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:05:18 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:05:58 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:05:58 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:06:20 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:06:21 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:06:30 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:06:57 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:07:23 --> Severity: Notice --> Undefined property: CI_DB_mysqli_driver::$where D:\Projects\master-overtime\application\models\MOvertime.php 23
+ERROR - 2018-01-27 02:07:23 --> Severity: Error --> Call to a member function join() on null D:\Projects\master-overtime\application\models\MOvertime.php 23
+ERROR - 2018-01-27 02:07:49 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:07:49 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:08:46 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:08:47 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:09:42 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:09:47 --> Severity: Parsing Error --> syntax error, unexpected 'AND' (T_LOGICAL_AND) D:\Projects\master-overtime\application\controllers\Overtime.php 7
+ERROR - 2018-01-27 02:10:39 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:10:40 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:12:38 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:12:39 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:12:44 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:12:44 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:13:50 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:13:51 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:13:54 --> Severity: Notice --> Undefined property: stdClass::$Nama_Output D:\Projects\master-overtime\application\views\Output\V_Output.php 78
+ERROR - 2018-01-27 02:13:54 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Output\V_Output.php 84
+ERROR - 2018-01-27 02:13:54 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 91
+ERROR - 2018-01-27 02:13:54 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 92
+ERROR - 2018-01-27 02:13:54 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 93
+ERROR - 2018-01-27 02:13:54 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 94
+ERROR - 2018-01-27 02:13:54 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 95
+ERROR - 2018-01-27 02:13:54 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 96
+ERROR - 2018-01-27 02:13:54 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 97
+ERROR - 2018-01-27 02:13:54 --> Severity: Notice --> Undefined property: stdClass::$Nama_Output D:\Projects\master-overtime\application\views\Output\V_Output.php 116
+ERROR - 2018-01-27 02:13:55 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:14:21 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:14:22 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:14:30 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:14:59 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:15:22 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:15:43 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:16:33 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:16:33 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:16:58 --> Severity: Notice --> Undefined property: stdClass::$Nama_Output D:\Projects\master-overtime\application\views\Output\V_Output.php 78
+ERROR - 2018-01-27 02:16:58 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Output\V_Output.php 84
+ERROR - 2018-01-27 02:16:58 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 91
+ERROR - 2018-01-27 02:16:58 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 92
+ERROR - 2018-01-27 02:16:58 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 93
+ERROR - 2018-01-27 02:16:58 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 94
+ERROR - 2018-01-27 02:16:58 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 95
+ERROR - 2018-01-27 02:16:58 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 96
+ERROR - 2018-01-27 02:16:58 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 97
+ERROR - 2018-01-27 02:16:58 --> Severity: Notice --> Undefined property: stdClass::$Nama_Output D:\Projects\master-overtime\application\views\Output\V_Output.php 116
+ERROR - 2018-01-27 02:16:58 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:16:59 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:19:24 --> Severity: Notice --> Undefined property: stdClass::$Nama_Output D:\Projects\master-overtime\application\views\Output\V_Output.php 78
+ERROR - 2018-01-27 02:19:24 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Output\V_Output.php 84
+ERROR - 2018-01-27 02:19:24 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 91
+ERROR - 2018-01-27 02:19:24 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 92
+ERROR - 2018-01-27 02:19:24 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 93
+ERROR - 2018-01-27 02:19:24 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 94
+ERROR - 2018-01-27 02:19:24 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 95
+ERROR - 2018-01-27 02:19:24 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 96
+ERROR - 2018-01-27 02:19:24 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 97
+ERROR - 2018-01-27 02:19:24 --> Severity: Notice --> Undefined property: stdClass::$Nama_Output D:\Projects\master-overtime\application\views\Output\V_Output.php 116
+ERROR - 2018-01-27 02:19:24 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:19:29 --> Severity: Notice --> Undefined property: stdClass::$Nama_Output D:\Projects\master-overtime\application\views\Output\V_Output.php 78
+ERROR - 2018-01-27 02:19:29 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Output\V_Output.php 84
+ERROR - 2018-01-27 02:19:29 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 91
+ERROR - 2018-01-27 02:19:29 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 92
+ERROR - 2018-01-27 02:19:29 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 93
+ERROR - 2018-01-27 02:19:29 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 94
+ERROR - 2018-01-27 02:19:29 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 95
+ERROR - 2018-01-27 02:19:29 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 96
+ERROR - 2018-01-27 02:19:29 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 97
+ERROR - 2018-01-27 02:19:29 --> Severity: Notice --> Undefined property: stdClass::$Nama_Output D:\Projects\master-overtime\application\views\Output\V_Output.php 116
+ERROR - 2018-01-27 02:19:30 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:19:30 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:20:04 --> Severity: Notice --> Undefined property: stdClass::$Nama_Output D:\Projects\master-overtime\application\views\Output\V_Output_Validate.php 78
+ERROR - 2018-01-27 02:20:04 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Output\V_Output_Validate.php 84
+ERROR - 2018-01-27 02:20:04 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output_Validate.php 91
+ERROR - 2018-01-27 02:20:04 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output_Validate.php 92
+ERROR - 2018-01-27 02:20:04 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output_Validate.php 93
+ERROR - 2018-01-27 02:20:04 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output_Validate.php 94
+ERROR - 2018-01-27 02:20:04 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output_Validate.php 95
+ERROR - 2018-01-27 02:20:04 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output_Validate.php 96
+ERROR - 2018-01-27 02:20:04 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output_Validate.php 97
+ERROR - 2018-01-27 02:20:04 --> Severity: Notice --> Undefined property: stdClass::$Nama_Output D:\Projects\master-overtime\application\views\Output\V_Output_Validate.php 116
+ERROR - 2018-01-27 02:20:05 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:20:05 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:21:08 --> Severity: Notice --> Undefined property: stdClass::$Nama_Output D:\Projects\master-overtime\application\views\Output\V_Output_Validate.php 69
+ERROR - 2018-01-27 02:21:09 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:21:09 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:21:35 --> Severity: Notice --> Undefined property: stdClass::$Nama_Output D:\Projects\master-overtime\application\views\Output\V_Output_Validate.php 69
+ERROR - 2018-01-27 02:21:36 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:23:08 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:23:20 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:23:45 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:24:40 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:24:40 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:25:54 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:25:54 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:26:03 --> Severity: Error --> Call to undefined method MOutput::Setujui() D:\Projects\master-overtime\application\controllers\Output.php 44
+ERROR - 2018-01-27 02:26:11 --> Query error: Unknown column 'Id_d_output' in 'where clause' - Invalid query: UPDATE `ak_barang` SET `Status` = 'Validate'
+WHERE `Id_d_output` = '1'
+ERROR - 2018-01-27 02:26:26 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:26:27 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:26:32 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:26:32 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:26:44 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:26:51 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:26:51 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:27:08 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:27:14 --> 404 Page Not Found: Output/setting
+ERROR - 2018-01-27 02:27:31 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:27:32 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:28:21 --> Severity: Notice --> Undefined property: stdClass::$Permintaan_Max D:\Projects\master-overtime\application\views\Output\V_Output_Setting.php 53
+ERROR - 2018-01-27 02:28:21 --> Severity: Notice --> Undefined property: stdClass::$Permintaan_Min D:\Projects\master-overtime\application\views\Output\V_Output_Setting.php 54
+ERROR - 2018-01-27 02:28:21 --> Severity: Notice --> Undefined property: stdClass::$Id_barang D:\Projects\master-overtime\application\views\Output\V_Output_Setting.php 56
+ERROR - 2018-01-27 02:28:21 --> Severity: Notice --> Undefined property: stdClass::$Id_barang D:\Projects\master-overtime\application\views\Output\V_Output_Setting.php 59
+ERROR - 2018-01-27 02:28:21 --> Severity: Notice --> Undefined property: stdClass::$Id_barang D:\Projects\master-overtime\application\views\Output\V_Output_Setting.php 66
+ERROR - 2018-01-27 02:28:21 --> Severity: Notice --> Undefined property: stdClass::$Permintaan_Max D:\Projects\master-overtime\application\views\Output\V_Output_Setting.php 72
+ERROR - 2018-01-27 02:28:21 --> Severity: Notice --> Undefined property: stdClass::$Permintaan_Min D:\Projects\master-overtime\application\views\Output\V_Output_Setting.php 78
+ERROR - 2018-01-27 02:28:22 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:28:22 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:29:13 --> Severity: Notice --> Undefined variable: Permintaan D:\Projects\master-overtime\application\views\Output\V_Output_Setting.php 48
+ERROR - 2018-01-27 02:29:13 --> Severity: Warning --> Invalid argument supplied for foreach() D:\Projects\master-overtime\application\views\Output\V_Output_Setting.php 48
+ERROR - 2018-01-27 02:29:13 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:29:39 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:31:46 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:32:01 --> Query error: Unknown column 'Id_user' in 'where clause' - Invalid query: UPDATE `ak_barang` SET `Nama_karyawan` = NULL, `Bagian` = NULL, `Username` = NULL
+WHERE `Id_user` = '1'
+ERROR - 2018-01-27 02:32:25 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:32:25 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:32:41 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:32:56 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:34:51 --> 404 Page Not Found: Dashboard/admin_gudang
+ERROR - 2018-01-27 02:36:48 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:36:49 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:42:09 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:42:10 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:42:16 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:42:42 --> Severity: Notice --> Undefined variable: data D:\Projects\master-overtime\application\models\MAdmin.php 47
+ERROR - 2018-01-27 02:42:42 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL' at line 3 - Invalid query: DELETE FROM `ak_user`
+WHERE `Id_user` = '7'
+AND  IS NULL
+ERROR - 2018-01-27 02:42:55 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:44:13 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:44:13 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:46:45 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:47:12 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:47:32 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:48:39 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:49:00 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:49:00 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:50:45 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:50:45 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:51:10 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:51:11 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:54:35 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:54:36 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:57:10 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:57:11 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:57:21 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:57:21 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:57:27 --> 404 Page Not Found: Persediaan/index
+ERROR - 2018-01-27 02:58:33 --> 404 Page Not Found: Persediaan/index
+ERROR - 2018-01-27 02:58:43 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:58:44 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:58:49 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:58:49 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 02:59:06 --> Severity: error --> Exception: Unable to locate the model you have specified: MPersediaan D:\Projects\master-overtime\system\core\Loader.php 344
+ERROR - 2018-01-27 02:59:24 --> Severity: error --> Exception: D:\Projects\master-overtime\application\models/MPersediaan.php exists, but doesn't declare class MPersediaan D:\Projects\master-overtime\system\core\Loader.php 336
+ERROR - 2018-01-27 02:59:39 --> Severity: Error --> Call to undefined method MPersediaan::GetData() D:\Projects\master-overtime\application\controllers\Persediaan.php 16
+ERROR - 2018-01-27 03:01:04 --> Severity: Error --> Call to undefined method MPersediaan::GetPermintaan() D:\Projects\master-overtime\application\controllers\Persediaan.php 17
+ERROR - 2018-01-27 03:01:18 --> Severity: Error --> Call to undefined method MPersediaan::GetPermintaan() D:\Projects\master-overtime\application\controllers\Persediaan.php 17
+ERROR - 2018-01-27 03:01:28 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:01:28 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:01:39 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:01:40 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:02:14 --> Severity: Notice --> Undefined variable: Karyawan D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 52
+ERROR - 2018-01-27 03:02:14 --> Severity: Warning --> Invalid argument supplied for foreach() D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 52
+ERROR - 2018-01-27 03:02:15 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:02:15 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:02:53 --> Severity: Notice --> Undefined variable: Karyawan D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 50
+ERROR - 2018-01-27 03:02:53 --> Severity: Warning --> Invalid argument supplied for foreach() D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 50
+ERROR - 2018-01-27 03:02:54 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:02:54 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:05:37 --> Query error: Not unique table/alias: 'ak_data_permintaan' - Invalid query: SELECT *
+FROM `ak_data_permintaan`
+JOIN `ak_data_permintaan` ON `ak_data_permintaan`.`Nama_barang`=`ak_barang`.`Id_barang`
+ERROR - 2018-01-27 03:06:12 --> Severity: Notice --> Undefined variable: Karyawan D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 50
+ERROR - 2018-01-27 03:06:12 --> Severity: Warning --> Invalid argument supplied for foreach() D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 50
+ERROR - 2018-01-27 03:06:13 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:06:13 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:07:24 --> Query error: Unknown column 'ak_barang.Id_d_permintaan' in 'on clause' - Invalid query: SELECT *
+FROM `ak_barang`
+JOIN `ak_data_permintaan` ON `ak_data_permintaan`.`Nama_barang`=`ak_barang`.`Id_barang`
+JOIN `ak_data_persediaan` ON `ak_data_persediaan`.`Id_d_permintaan`=`ak_barang`.`Id_d_permintaan`
+ERROR - 2018-01-27 03:07:35 --> Severity: Notice --> Undefined variable: Karyawan D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 50
+ERROR - 2018-01-27 03:07:35 --> Severity: Warning --> Invalid argument supplied for foreach() D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 50
+ERROR - 2018-01-27 03:07:35 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:07:36 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:09:16 --> Severity: Notice --> Undefined variable: Karyawan D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 53
+ERROR - 2018-01-27 03:09:16 --> Severity: Warning --> Invalid argument supplied for foreach() D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 53
+ERROR - 2018-01-27 03:09:16 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:09:17 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:10:08 --> Severity: Notice --> Undefined property: stdClass::$Id_user D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 63
+ERROR - 2018-01-27 03:10:08 --> Severity: Notice --> Undefined property: stdClass::$Id_user D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 64
+ERROR - 2018-01-27 03:10:08 --> Severity: Notice --> Undefined property: stdClass::$Id_user D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 67
+ERROR - 2018-01-27 03:10:08 --> Severity: Notice --> Undefined property: stdClass::$Nama_Persediaan D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 72
+ERROR - 2018-01-27 03:10:08 --> Severity: Notice --> Undefined property: stdClass::$Id_user D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 74
+ERROR - 2018-01-27 03:10:08 --> Severity: Notice --> Undefined property: stdClass::$Nama_Persediaan D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 80
+ERROR - 2018-01-27 03:10:08 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 86
+ERROR - 2018-01-27 03:10:08 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 93
+ERROR - 2018-01-27 03:10:08 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 94
+ERROR - 2018-01-27 03:10:08 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 95
+ERROR - 2018-01-27 03:10:08 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 96
+ERROR - 2018-01-27 03:10:08 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 97
+ERROR - 2018-01-27 03:10:08 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 98
+ERROR - 2018-01-27 03:10:08 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 99
+ERROR - 2018-01-27 03:10:08 --> Severity: Notice --> Undefined property: stdClass::$Id_user D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 113
+ERROR - 2018-01-27 03:10:08 --> Severity: Notice --> Undefined property: stdClass::$Nama_Persediaan D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 118
+ERROR - 2018-01-27 03:10:08 --> Severity: Notice --> Undefined property: stdClass::$Id_user D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 120
+ERROR - 2018-01-27 03:10:09 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:10:09 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:10:34 --> Severity: Notice --> Undefined property: stdClass::$Nama_Persediaan D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 72
+ERROR - 2018-01-27 03:10:34 --> Severity: Notice --> Undefined property: stdClass::$Nama_Persediaan D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 80
+ERROR - 2018-01-27 03:10:34 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 86
+ERROR - 2018-01-27 03:10:34 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 93
+ERROR - 2018-01-27 03:10:34 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 94
+ERROR - 2018-01-27 03:10:34 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 95
+ERROR - 2018-01-27 03:10:34 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 96
+ERROR - 2018-01-27 03:10:34 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 97
+ERROR - 2018-01-27 03:10:34 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 98
+ERROR - 2018-01-27 03:10:34 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 99
+ERROR - 2018-01-27 03:10:34 --> Severity: Notice --> Undefined property: stdClass::$Nama_Persediaan D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 118
+ERROR - 2018-01-27 03:10:35 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:10:58 --> Severity: Notice --> Undefined property: stdClass::$Nama_Persediaan D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 64
+ERROR - 2018-01-27 03:10:58 --> Severity: Notice --> Undefined property: stdClass::$Nama_Persediaan D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 72
+ERROR - 2018-01-27 03:10:58 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 78
+ERROR - 2018-01-27 03:10:58 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 85
+ERROR - 2018-01-27 03:10:58 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 86
+ERROR - 2018-01-27 03:10:58 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 87
+ERROR - 2018-01-27 03:10:58 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 88
+ERROR - 2018-01-27 03:10:58 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 89
+ERROR - 2018-01-27 03:10:58 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 90
+ERROR - 2018-01-27 03:10:58 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 91
+ERROR - 2018-01-27 03:10:58 --> Severity: Notice --> Undefined property: stdClass::$Nama_Persediaan D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 110
+ERROR - 2018-01-27 03:10:59 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:11:52 --> Severity: Notice --> Undefined property: stdClass::$Nama_Persediaan D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 64
+ERROR - 2018-01-27 03:11:52 --> Severity: Notice --> Undefined property: stdClass::$Nama_Persediaan D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 90
+ERROR - 2018-01-27 03:11:53 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:12:27 --> Severity: Notice --> Undefined property: stdClass::$Nama_Persediaan D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 90
+ERROR - 2018-01-27 03:12:27 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:12:28 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:13:14 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:13:14 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:13:57 --> Severity: Notice --> Undefined property: stdClass::$ak_barang D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 51
+ERROR - 2018-01-27 03:13:57 --> Severity: Notice --> Use of undefined constant Nama_barang - assumed 'Nama_barang' D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan.php 51
+ERROR - 2018-01-27 03:13:57 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:13:58 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:14:04 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:14:05 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:14:44 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:14:54 --> 404 Page Not Found: Persediaan/setting
+ERROR - 2018-01-27 03:15:01 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:15:02 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:15:08 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:15:08 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:15:33 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:15:40 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:15:40 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:17:05 --> 404 Page Not Found: Persediaan/setting
+ERROR - 2018-01-27 03:17:15 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:17:15 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:17:20 --> Severity: Notice --> Undefined variable: Output D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan_Setting.php 48
+ERROR - 2018-01-27 03:17:20 --> Severity: Warning --> Invalid argument supplied for foreach() D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan_Setting.php 48
+ERROR - 2018-01-27 03:17:21 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:17:21 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:17:24 --> Severity: Notice --> Undefined variable: Output D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan_Setting.php 48
+ERROR - 2018-01-27 03:17:24 --> Severity: Warning --> Invalid argument supplied for foreach() D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan_Setting.php 48
+ERROR - 2018-01-27 03:17:25 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:17:52 --> Severity: Notice --> Undefined variable: Output D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan_Setting.php 48
+ERROR - 2018-01-27 03:17:52 --> Severity: Warning --> Invalid argument supplied for foreach() D:\Projects\master-overtime\application\views\Persediaan\V_Persediaan_Setting.php 48
+ERROR - 2018-01-27 03:17:52 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:17:52 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:18:12 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:18:13 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:19:42 --> Query error: Unknown column 'ak_data_permintaan.Nama_barang' in 'on clause' - Invalid query: SELECT *
+FROM `ak_barang`
+JOIN `ak_data_permintaan` ON `ak_barang`.`Id_barang`=`ak_data_permintaan`.`Nama_barang`
+JOIN `ak_data_persediaan` ON `ak_data_persediaan`.`Id_d_permintaan`=`ak_data_permintaan`.`Id_d_permintaan`
+ERROR - 2018-01-27 03:19:52 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:19:52 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:20:44 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:21:03 --> 404 Page Not Found: Persediaan/barang
+ERROR - 2018-01-27 03:21:30 --> Severity: Error --> Call to undefined method MPersediaan::GetBarang() D:\Projects\master-overtime\application\controllers\Persediaan.php 34
+ERROR - 2018-01-27 03:22:31 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:22:32 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:22:48 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:23:47 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:23:47 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:24:11 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:24:11 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:24:16 --> Query error: Unknown column 'ak_data_permintaan.Nama_barang' in 'on clause' - Invalid query: SELECT *
+FROM `ak_data_permintaan`
+JOIN `ak_barang` ON `ak_barang`.`Id_barang`=`ak_data_permintaan`.`Nama_barang`
+ERROR - 2018-01-27 03:24:42 --> Query error: Unknown column 'ak_data_permintaan.Nama_barang' in 'on clause' - Invalid query: SELECT *
+FROM `ak_data_overtime`
+JOIN `ak_data_permintaan` ON `ak_data_permintaan`.`Id_d_permintaan`=`ak_data_overtime`.`Id_d_permintaan`
+JOIN `ak_barang` ON `ak_barang`.`Id_barang`=`ak_data_permintaan`.`Nama_barang`
+WHERE `Status` = 'ACC'
+ERROR - 2018-01-27 03:24:51 --> Query error: Unknown column 'ak_data_permintaan.Nama_barang' in 'on clause' - Invalid query: SELECT *
+FROM `ak_data_overtime`
+JOIN `ak_data_permintaan` ON `ak_data_permintaan`.`Id_d_permintaan`=`ak_data_overtime`.`Id_d_permintaan`
+JOIN `ak_barang` ON `ak_barang`.`Id_barang`=`ak_data_permintaan`.`Nama_barang`
+WHERE `Status` = 'ACC'
+ERROR - 2018-01-27 03:25:01 --> Query error: Unknown column 'ak_data_permintaan.Nama_barang' in 'on clause' - Invalid query: SELECT *
+FROM `ak_data_overtime`
+JOIN `ak_data_permintaan` ON `ak_data_permintaan`.`Id_d_permintaan`=`ak_data_overtime`.`Id_d_permintaan`
+JOIN `ak_barang` ON `ak_barang`.`Id_barang`=`ak_data_permintaan`.`Nama_barang`
+WHERE `Status` = 'ACC'
+ERROR - 2018-01-27 03:25:36 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:25:36 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:25:41 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:25:41 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:27:36 --> Severity: Notice --> Undefined variable: Karyawan D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 52
+ERROR - 2018-01-27 03:27:36 --> Severity: Warning --> Invalid argument supplied for foreach() D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 52
+ERROR - 2018-01-27 03:27:36 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:27:37 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:28:07 --> Severity: Notice --> Undefined variable: Karyawan D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 52
+ERROR - 2018-01-27 03:28:07 --> Severity: Warning --> Invalid argument supplied for foreach() D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 52
+ERROR - 2018-01-27 03:28:07 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:28:08 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:28:17 --> Severity: Notice --> Undefined property: stdClass::$Nama_Barang D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 56
+ERROR - 2018-01-27 03:28:17 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 57
+ERROR - 2018-01-27 03:28:17 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 58
+ERROR - 2018-01-27 03:28:17 --> Severity: Notice --> Undefined property: stdClass::$Created_Date D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 59
+ERROR - 2018-01-27 03:28:17 --> Severity: Notice --> Undefined property: stdClass::$Id_user D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 61
+ERROR - 2018-01-27 03:28:17 --> Severity: Notice --> Undefined property: stdClass::$Id_user D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 62
+ERROR - 2018-01-27 03:28:17 --> Severity: Notice --> Undefined property: stdClass::$Id_user D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 65
+ERROR - 2018-01-27 03:28:17 --> Severity: Notice --> Undefined property: stdClass::$Nama_Barang D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 70
+ERROR - 2018-01-27 03:28:17 --> Severity: Notice --> Undefined property: stdClass::$Id_user D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 72
+ERROR - 2018-01-27 03:28:17 --> Severity: Notice --> Undefined property: stdClass::$Nama_Barang D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 78
+ERROR - 2018-01-27 03:28:17 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 84
+ERROR - 2018-01-27 03:28:17 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 91
+ERROR - 2018-01-27 03:28:17 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 92
+ERROR - 2018-01-27 03:28:17 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 93
+ERROR - 2018-01-27 03:28:17 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 94
+ERROR - 2018-01-27 03:28:17 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 95
+ERROR - 2018-01-27 03:28:17 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 96
+ERROR - 2018-01-27 03:28:17 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 97
+ERROR - 2018-01-27 03:28:17 --> Severity: Notice --> Undefined property: stdClass::$Id_user D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 111
+ERROR - 2018-01-27 03:28:17 --> Severity: Notice --> Undefined property: stdClass::$Nama_Barang D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 116
+ERROR - 2018-01-27 03:28:17 --> Severity: Notice --> Undefined property: stdClass::$Id_user D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 118
+ERROR - 2018-01-27 03:28:17 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:28:49 --> Severity: Notice --> Undefined property: stdClass::$Nama_Barang D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 56
+ERROR - 2018-01-27 03:28:49 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 57
+ERROR - 2018-01-27 03:28:49 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 58
+ERROR - 2018-01-27 03:28:49 --> Severity: Notice --> Undefined property: stdClass::$Created_Date D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 59
+ERROR - 2018-01-27 03:28:49 --> Severity: Notice --> Undefined property: stdClass::$Nama_Barang D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 70
+ERROR - 2018-01-27 03:28:49 --> Severity: Notice --> Undefined property: stdClass::$Nama_Barang D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 78
+ERROR - 2018-01-27 03:28:49 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 84
+ERROR - 2018-01-27 03:28:49 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 91
+ERROR - 2018-01-27 03:28:49 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 92
+ERROR - 2018-01-27 03:28:49 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 93
+ERROR - 2018-01-27 03:28:49 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 94
+ERROR - 2018-01-27 03:28:49 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 95
+ERROR - 2018-01-27 03:28:49 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 96
+ERROR - 2018-01-27 03:28:49 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 97
+ERROR - 2018-01-27 03:28:49 --> Severity: Notice --> Undefined property: stdClass::$Nama_Barang D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 116
+ERROR - 2018-01-27 03:28:49 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:28:50 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:29:29 --> Severity: Notice --> Undefined property: stdClass::$Nama_Barang D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 54
+ERROR - 2018-01-27 03:29:29 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 55
+ERROR - 2018-01-27 03:29:29 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 56
+ERROR - 2018-01-27 03:29:29 --> Severity: Notice --> Undefined property: stdClass::$Created_Date D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 57
+ERROR - 2018-01-27 03:29:29 --> Severity: Notice --> Undefined property: stdClass::$Nama_Barang D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 68
+ERROR - 2018-01-27 03:29:29 --> Severity: Notice --> Undefined property: stdClass::$Nama_Barang D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 76
+ERROR - 2018-01-27 03:29:29 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 82
+ERROR - 2018-01-27 03:29:29 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 89
+ERROR - 2018-01-27 03:29:29 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 90
+ERROR - 2018-01-27 03:29:29 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 91
+ERROR - 2018-01-27 03:29:29 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 92
+ERROR - 2018-01-27 03:29:29 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 93
+ERROR - 2018-01-27 03:29:29 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 94
+ERROR - 2018-01-27 03:29:29 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 95
+ERROR - 2018-01-27 03:29:29 --> Severity: Notice --> Undefined property: stdClass::$Nama_Barang D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 114
+ERROR - 2018-01-27 03:29:29 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:29:50 --> Severity: Notice --> Undefined property: stdClass::$Jenis D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 55
+ERROR - 2018-01-27 03:29:50 --> Severity: Notice --> Undefined property: stdClass::$Nama_Barang D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 66
+ERROR - 2018-01-27 03:29:50 --> Severity: Notice --> Undefined property: stdClass::$Nama_Barang D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 74
+ERROR - 2018-01-27 03:29:50 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 80
+ERROR - 2018-01-27 03:29:50 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 87
+ERROR - 2018-01-27 03:29:50 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 88
+ERROR - 2018-01-27 03:29:51 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 89
+ERROR - 2018-01-27 03:29:51 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 90
+ERROR - 2018-01-27 03:29:51 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 91
+ERROR - 2018-01-27 03:29:51 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 92
+ERROR - 2018-01-27 03:29:51 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 93
+ERROR - 2018-01-27 03:29:51 --> Severity: Notice --> Undefined property: stdClass::$Nama_Barang D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 112
+ERROR - 2018-01-27 03:29:51 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:30:04 --> Severity: Notice --> Undefined property: stdClass::$Nama_Barang D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 66
+ERROR - 2018-01-27 03:30:04 --> Severity: Notice --> Undefined property: stdClass::$Nama_Barang D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 74
+ERROR - 2018-01-27 03:30:04 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 80
+ERROR - 2018-01-27 03:30:04 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 87
+ERROR - 2018-01-27 03:30:04 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 88
+ERROR - 2018-01-27 03:30:04 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 89
+ERROR - 2018-01-27 03:30:04 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 90
+ERROR - 2018-01-27 03:30:04 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 91
+ERROR - 2018-01-27 03:30:04 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 92
+ERROR - 2018-01-27 03:30:04 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 93
+ERROR - 2018-01-27 03:30:04 --> Severity: Notice --> Undefined property: stdClass::$Nama_Barang D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 112
+ERROR - 2018-01-27 03:30:04 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:30:43 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:30:44 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:30:47 --> Severity: Notice --> Undefined property: stdClass::$Nama_Barang D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 66
+ERROR - 2018-01-27 03:30:47 --> Severity: Notice --> Undefined property: stdClass::$Nama_Barang D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 74
+ERROR - 2018-01-27 03:30:47 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 80
+ERROR - 2018-01-27 03:30:47 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 87
+ERROR - 2018-01-27 03:30:47 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 88
+ERROR - 2018-01-27 03:30:47 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 89
+ERROR - 2018-01-27 03:30:47 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 90
+ERROR - 2018-01-27 03:30:47 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 91
+ERROR - 2018-01-27 03:30:47 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 92
+ERROR - 2018-01-27 03:30:47 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 93
+ERROR - 2018-01-27 03:30:47 --> Severity: Notice --> Undefined property: stdClass::$Nama_Barang D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 112
+ERROR - 2018-01-27 03:30:47 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:33:05 --> Severity: Notice --> Undefined property: stdClass::$Nama_Barang D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 66
+ERROR - 2018-01-27 03:33:05 --> Severity: Notice --> Undefined property: stdClass::$Nama_Barang D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 74
+ERROR - 2018-01-27 03:33:05 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 80
+ERROR - 2018-01-27 03:33:05 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 87
+ERROR - 2018-01-27 03:33:05 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 88
+ERROR - 2018-01-27 03:33:05 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 89
+ERROR - 2018-01-27 03:33:05 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 90
+ERROR - 2018-01-27 03:33:05 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 91
+ERROR - 2018-01-27 03:33:05 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 92
+ERROR - 2018-01-27 03:33:05 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 93
+ERROR - 2018-01-27 03:33:05 --> Severity: Notice --> Undefined property: stdClass::$Nama_Barang D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 112
+ERROR - 2018-01-27 03:33:06 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:33:07 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:34:40 --> Severity: Notice --> Undefined property: stdClass::$Nama_Barang D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 66
+ERROR - 2018-01-27 03:34:40 --> Severity: Notice --> Undefined property: stdClass::$Nama_Barang D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 74
+ERROR - 2018-01-27 03:34:40 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 80
+ERROR - 2018-01-27 03:34:40 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 87
+ERROR - 2018-01-27 03:34:40 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 88
+ERROR - 2018-01-27 03:34:40 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 89
+ERROR - 2018-01-27 03:34:40 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 90
+ERROR - 2018-01-27 03:34:40 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 91
+ERROR - 2018-01-27 03:34:40 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 92
+ERROR - 2018-01-27 03:34:40 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 93
+ERROR - 2018-01-27 03:34:40 --> Severity: Notice --> Undefined property: stdClass::$Nama_Barang D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 112
+ERROR - 2018-01-27 03:34:40 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:34:41 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:35:11 --> Severity: Notice --> Undefined property: stdClass::$Nama_Barang D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 66
+ERROR - 2018-01-27 03:35:11 --> Severity: Notice --> Undefined property: stdClass::$Nama_Barang D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 74
+ERROR - 2018-01-27 03:35:11 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 80
+ERROR - 2018-01-27 03:35:11 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 87
+ERROR - 2018-01-27 03:35:11 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 88
+ERROR - 2018-01-27 03:35:11 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 89
+ERROR - 2018-01-27 03:35:11 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 90
+ERROR - 2018-01-27 03:35:11 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 91
+ERROR - 2018-01-27 03:35:11 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 92
+ERROR - 2018-01-27 03:35:11 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 93
+ERROR - 2018-01-27 03:35:11 --> Severity: Notice --> Undefined property: stdClass::$Nama_Barang D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 112
+ERROR - 2018-01-27 03:35:11 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:35:12 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:39:36 --> Severity: Notice --> Undefined property: stdClass::$Nama_Barang D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 66
+ERROR - 2018-01-27 03:39:36 --> Severity: Notice --> Undefined property: stdClass::$Nama_Barang D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 102
+ERROR - 2018-01-27 03:39:37 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:39:37 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:39:57 --> Severity: Notice --> Undefined property: stdClass::$Nama_Barang D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 102
+ERROR - 2018-01-27 03:39:57 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:39:58 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:40:17 --> Severity: Notice --> Undefined property: stdClass::$Nama_Barang D:\Projects\master-overtime\application\views\Persediaan\V_Barang.php 102
+ERROR - 2018-01-27 03:40:18 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:40:18 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:40:46 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:40:47 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:40:57 --> 404 Page Not Found: Persediaan/hapus_data
+ERROR - 2018-01-27 03:43:31 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:43:32 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:46:30 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:46:30 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:46:39 --> Severity: Notice --> Undefined property: Persediaan::$MAdmin D:\Projects\master-overtime\application\controllers\Persediaan.php 47
+ERROR - 2018-01-27 03:46:39 --> Severity: Error --> Call to a member function EditData() on null D:\Projects\master-overtime\application\controllers\Persediaan.php 47
+ERROR - 2018-01-27 03:47:00 --> 404 Page Not Found: Persedian/barang
+ERROR - 2018-01-27 03:47:11 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:47:19 --> 404 Page Not Found: Persedian/barang
+ERROR - 2018-01-27 03:47:45 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:47:58 --> 404 Page Not Found: Persedian/barang
+ERROR - 2018-01-27 03:48:29 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:48:29 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:48:37 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:48:45 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:48:45 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:48:53 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:48:54 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:49:02 --> Severity: Notice --> Undefined variable: data D:\Projects\master-overtime\application\models\MPersediaan.php 48
+ERROR - 2018-01-27 03:49:02 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL' at line 3 - Invalid query: DELETE FROM `ak_barang`
+WHERE `Id_barang` = '1'
+AND  IS NULL
+ERROR - 2018-01-27 03:50:32 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:50:37 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:50:42 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:50:42 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:50:46 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:50:47 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:50:50 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:50:51 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:51:54 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:52:01 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:52:02 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:52:31 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:52:37 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:52:52 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:52:53 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:52:57 --> Query error: Unknown column 'ak_data_permintaan.Nama_barang' in 'on clause' - Invalid query: SELECT *
+FROM `ak_data_permintaan`
+JOIN `ak_barang` ON `ak_barang`.`Id_barang`=`ak_data_permintaan`.`Nama_barang`
+ERROR - 2018-01-27 03:53:55 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:53:55 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:55:08 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:55:21 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 71
+ERROR - 2018-01-27 03:55:21 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 79
+ERROR - 2018-01-27 03:55:21 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Order\V_Order.php 85
+ERROR - 2018-01-27 03:55:21 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 92
+ERROR - 2018-01-27 03:55:21 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 93
+ERROR - 2018-01-27 03:55:21 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 94
+ERROR - 2018-01-27 03:55:21 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 95
+ERROR - 2018-01-27 03:55:21 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 96
+ERROR - 2018-01-27 03:55:21 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 97
+ERROR - 2018-01-27 03:55:21 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 98
+ERROR - 2018-01-27 03:55:21 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 117
+ERROR - 2018-01-27 03:55:22 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:55:44 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 71
+ERROR - 2018-01-27 03:55:44 --> Severity: Notice --> Undefined property: stdClass::$Nama_Order D:\Projects\master-overtime\application\views\Order\V_Order.php 79
+ERROR - 2018-01-27 03:55:44 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Order\V_Order.php 85
+ERROR - 2018-01-27 03:55:44 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 92
+ERROR - 2018-01-27 03:55:44 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 93
+ERROR - 2018-01-27 03:55:44 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 94
+ERROR - 2018-01-27 03:55:44 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 95
+ERROR - 2018-01-27 03:55:44 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 96
+ERROR - 2018-01-27 03:55:44 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 97
+ERROR - 2018-01-27 03:55:44 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 98
+ERROR - 2018-01-27 03:55:45 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:55:45 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:56:18 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Order\V_Order.php 85
+ERROR - 2018-01-27 03:56:18 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 92
+ERROR - 2018-01-27 03:56:18 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 93
+ERROR - 2018-01-27 03:56:18 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 94
+ERROR - 2018-01-27 03:56:18 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 95
+ERROR - 2018-01-27 03:56:19 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 96
+ERROR - 2018-01-27 03:56:19 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 97
+ERROR - 2018-01-27 03:56:19 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Order\V_Order.php 98
+ERROR - 2018-01-27 03:56:19 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:56:19 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:57:29 --> Severity: Notice --> Undefined property: stdClass::$nama D:\Projects\master-overtime\application\views\Order\V_Order.php 78
+ERROR - 2018-01-27 03:57:29 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:57:50 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:57:51 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:58:57 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:58:58 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:59:06 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:59:07 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:59:28 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:59:29 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 03:59:36 --> Query error: Unknown column 'Id_user' in 'where clause' - Invalid query: UPDATE `ak_barang` SET `Nama_karyawan` = NULL, `Bagian` = NULL, `Username` = NULL
+WHERE `Id_user` = '2'
+ERROR - 2018-01-27 04:00:10 --> Query error: Unknown column 'Id_user' in 'where clause' - Invalid query: UPDATE `ak_barang` SET `Tanggal` = '2018-01-27', `Nama` = 'Gilang Pratama Priadi', `Id_barang` = '2'
+WHERE `Id_user` = '2'
+ERROR - 2018-01-27 04:00:44 --> Query error: Unknown column 'Id_d_permintaan' in 'where clause' - Invalid query: UPDATE `ak_barang` SET `Tanggal` = '2018-01-27', `Nama` = 'Gilang Pratama Priadi', `Id_barang` = '2'
+WHERE `Id_d_permintaan` = '2'
+ERROR - 2018-01-27 04:01:11 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:01:55 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:02:02 --> Severity: Notice --> Undefined variable: data D:\Projects\master-overtime\application\models\MOrder.php 58
+ERROR - 2018-01-27 04:02:02 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL' at line 3 - Invalid query: DELETE FROM `ak_data_permintaan`
+WHERE `Id_d_permintaan` = '2'
+AND  IS NULL
+ERROR - 2018-01-27 04:02:16 --> Severity: Notice --> Undefined variable: data D:\Projects\master-overtime\application\models\MOrder.php 58
+ERROR - 2018-01-27 04:02:16 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL' at line 3 - Invalid query: DELETE FROM `ak_data_permintaan`
+WHERE `Id_d_permintaan` = '2'
+AND  IS NULL
+ERROR - 2018-01-27 04:02:36 --> Severity: Notice --> Undefined variable: data D:\Projects\master-overtime\application\models\MOrder.php 58
+ERROR - 2018-01-27 04:02:36 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL' at line 3 - Invalid query: DELETE FROM `ak_data_permintaan`
+WHERE `Id_d_permintaan` = '2'
+AND  IS NULL
+ERROR - 2018-01-27 04:02:39 --> Severity: Notice --> Undefined variable: data D:\Projects\master-overtime\application\models\MOrder.php 58
+ERROR - 2018-01-27 04:02:39 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'IS NULL' at line 3 - Invalid query: DELETE FROM `ak_data_permintaan`
+WHERE `Id_d_permintaan` = '2'
+AND  IS NULL
+ERROR - 2018-01-27 04:03:04 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:03:04 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:03:21 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:03:25 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:03:58 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:04:04 --> Query error: Unknown column 'ak_data_permintaan.Nama_barang' in 'on clause' - Invalid query: SELECT *
+FROM `ak_data_permintaan`
+JOIN `ak_barang` ON `ak_barang`.`Id_barang`=`ak_data_permintaan`.`Nama_barang`
+JOIN `ak_data_output` ON `ak_data_permintaan`.`Id_d_permintaan`=`ak_data_output`.`Id_d_permintaan`
+ERROR - 2018-01-27 04:04:33 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:04:39 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:05:26 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:05:31 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:09:09 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:09:09 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:09:13 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:09:20 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:09:52 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:12:54 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:13:01 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:13:10 --> Severity: Notice --> Undefined variable: data D:\Projects\master-overtime\application\models\MOrder.php 37
+ERROR - 2018-01-27 04:13:24 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:15:59 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:15:59 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:16:09 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:18:54 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:19:07 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:19:07 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:19:12 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:19:16 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:20:14 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:20:15 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:20:26 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:20:27 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:20:39 --> Severity: Notice --> Undefined property: stdClass::$Nama_Output D:\Projects\master-overtime\application\views\Output\V_Output.php 78
+ERROR - 2018-01-27 04:20:39 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Output\V_Output.php 84
+ERROR - 2018-01-27 04:20:39 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 91
+ERROR - 2018-01-27 04:20:39 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 92
+ERROR - 2018-01-27 04:20:39 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 93
+ERROR - 2018-01-27 04:20:39 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 94
+ERROR - 2018-01-27 04:20:39 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 95
+ERROR - 2018-01-27 04:20:39 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 96
+ERROR - 2018-01-27 04:20:39 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 97
+ERROR - 2018-01-27 04:20:39 --> Severity: Notice --> Undefined property: stdClass::$Nama_Output D:\Projects\master-overtime\application\views\Output\V_Output.php 116
+ERROR - 2018-01-27 04:20:40 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:20:56 --> Severity: Notice --> Undefined property: stdClass::$Nama_Output D:\Projects\master-overtime\application\views\Output\V_Output.php 78
+ERROR - 2018-01-27 04:20:56 --> Severity: Notice --> Undefined property: stdClass::$Username D:\Projects\master-overtime\application\views\Output\V_Output.php 84
+ERROR - 2018-01-27 04:20:56 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 91
+ERROR - 2018-01-27 04:20:56 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 92
+ERROR - 2018-01-27 04:20:56 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 93
+ERROR - 2018-01-27 04:20:56 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 94
+ERROR - 2018-01-27 04:20:56 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 95
+ERROR - 2018-01-27 04:20:56 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 96
+ERROR - 2018-01-27 04:20:56 --> Severity: Notice --> Undefined property: stdClass::$Bagian D:\Projects\master-overtime\application\views\Output\V_Output.php 97
+ERROR - 2018-01-27 04:20:56 --> Severity: Notice --> Undefined property: stdClass::$Nama_Output D:\Projects\master-overtime\application\views\Output\V_Output.php 116
+ERROR - 2018-01-27 04:20:57 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:20:57 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:22:57 --> Severity: Notice --> Undefined property: stdClass::$Nama_Output D:\Projects\master-overtime\application\views\Output\V_Output.php 95
+ERROR - 2018-01-27 04:22:57 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:22:58 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:23:29 --> Query error: Unknown column 'Id_user' in 'where clause' - Invalid query: UPDATE `ak_barang` SET `Nama_karyawan` = NULL, `Bagian` = NULL, `Username` = NULL
+WHERE `Id_user` = '3'
+ERROR - 2018-01-27 04:24:50 --> Query error: Unknown column 'Id_d_output' in 'where clause' - Invalid query: UPDATE `ak_barang` SET `Output` = '2600'
+WHERE `Id_d_output` = '3'
+ERROR - 2018-01-27 04:25:06 --> Severity: Notice --> Undefined property: stdClass::$Nama_Output D:\Projects\master-overtime\application\views\Output\V_Output.php 95
+ERROR - 2018-01-27 04:25:06 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:25:07 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:26:23 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:26:37 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:26:37 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:27:04 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:27:10 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:27:44 --> Query error: Unknown column 'ak_data_permintaan.Nama_barang' in 'on clause' - Invalid query: SELECT *
+FROM `ak_data_overtime`
+JOIN `ak_data_permintaan` ON `ak_data_permintaan`.`Id_d_permintaan`=`ak_data_overtime`.`Id_d_permintaan`
+JOIN `ak_barang` ON `ak_barang`.`Id_barang`=`ak_data_permintaan`.`Nama_barang`
+WHERE `Status` = 'ACC'
+ERROR - 2018-01-27 04:29:05 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:29:05 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:29:15 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:29:21 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:29:26 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:29:58 --> Severity: Compile Error --> Cannot redeclare Output::validate() D:\Projects\master-overtime\application\controllers\Output.php 69
+ERROR - 2018-01-27 04:30:17 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:30:17 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:31:01 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:31:05 --> 404 Page Not Found: Output/outut_validate
+ERROR - 2018-01-27 04:31:20 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:31:20 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:31:24 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:31:30 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:31:34 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:31:34 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:32:02 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:32:03 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:32:13 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:32:14 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:32:51 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:32:52 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:32:55 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:33:00 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:33:54 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:34:11 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:34:16 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:34:20 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:34:21 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:35:20 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:38:22 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:38:22 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:38:34 --> Query error: Unknown column 'Id_barang' in 'where clause' - Invalid query: UPDATE `ak_data_persediaan` SET `Persediaan` = '1000'
+WHERE `Id_barang` = '2'
+ERROR - 2018-01-27 04:38:51 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:39:01 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:42:24 --> 404 Page Not Found: Persediaan/edit_setting
+ERROR - 2018-01-27 04:42:48 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:43:00 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:43:10 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:43:11 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:43:52 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:44:14 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:44:15 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:45:25 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:45:34 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:46:00 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:46:26 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:46:33 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:46:40 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:47:02 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:47:44 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:47:54 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:47:55 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:49:00 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:49:01 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:49:08 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:50:00 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:50:01 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:50:07 --> Severity: Notice --> Undefined property: stdClass::$Nama_barang D:\Projects\master-overtime\application\views\Overtime\V_Report.php 56
+ERROR - 2018-01-27 04:50:07 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:50:08 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:51:52 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:51:52 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:54:32 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:54:33 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:54:38 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:54:53 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:54:53 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:54:59 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:55:11 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:55:11 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:55:18 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:55:41 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:55:42 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:55:46 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:56:13 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:56:14 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:56:20 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:56:46 --> Severity: Notice --> Undefined variable: a D:\Projects\master-overtime\application\models\MAdmin.php 48
+ERROR - 2018-01-27 04:56:47 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:56:48 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:58:20 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 04:58:51 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 05:01:42 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 05:01:47 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 05:02:05 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 05:02:06 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 05:02:11 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 05:02:11 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 05:02:17 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 05:02:17 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 05:03:50 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 05:03:50 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 05:03:54 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 05:03:55 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 05:04:00 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 05:04:00 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 05:04:09 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 05:04:10 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 05:04:17 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 05:04:23 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 05:04:23 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 05:04:28 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 05:04:51 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 05:04:56 --> 404 Page Not Found: Assets/daterangepicker
+ERROR - 2018-01-27 06:04:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2018-01-27 06:04:13 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-01-27 06:04:27 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-01-27 08:04:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-01-27 21:45:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2018-01-27 21:45:44 --> 404 Page Not Found: Faviconico/index
+ERROR - 2018-01-27 21:46:55 --> 404 Page Not Found: Dashboard/quality_control
+ERROR - 2018-01-27 21:57:26 --> Severity: Notice --> Undefined variable: a /home/fathtech/public_html/master-inventory/application/models/MAdmin.php 48
+ERROR - 2018-01-27 21:57:26 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/fathtech/public_html/master-inventory/system/core/Exceptions.php:271) /home/fathtech/public_html/master-inventory/system/helpers/url_helper.php 564
+ERROR - 2018-01-27 22:01:36 --> Severity: Notice --> Undefined property: Dashboard::$MPersediaan /home/fathtech/public_html/master-inventory/application/controllers/Dashboard.php 54
+ERROR - 2018-01-27 22:01:36 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/fathtech/public_html/master-inventory/system/core/Exceptions.php:271) /home/fathtech/public_html/master-inventory/system/core/Common.php 570
+ERROR - 2018-01-27 22:01:36 --> Severity: Error --> Call to a member function GetPersediaanMinMax() on null /home/fathtech/public_html/master-inventory/application/controllers/Dashboard.php 54
+ERROR - 2018-01-27 22:04:36 --> Severity: Notice --> Undefined property: Dashboard::$MPersediaan /home/fathtech/public_html/master-inventory/application/controllers/Dashboard.php 54
+ERROR - 2018-01-27 22:04:36 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/fathtech/public_html/master-inventory/system/core/Exceptions.php:271) /home/fathtech/public_html/master-inventory/system/core/Common.php 570
+ERROR - 2018-01-27 22:04:36 --> Severity: Error --> Call to a member function GetPersediaanMinMax() on null /home/fathtech/public_html/master-inventory/application/controllers/Dashboard.php 54
+ERROR - 2018-01-27 22:07:30 --> Severity: Notice --> Undefined variable: Persediaan /home/fathtech/public_html/master-inventory/application/views/Dashboard/V_Dashboard_Gudang.php 22
+ERROR - 2018-01-27 22:07:30 --> Severity: Notice --> Trying to get property of non-object /home/fathtech/public_html/master-inventory/application/views/Dashboard/V_Dashboard_Gudang.php 22
+ERROR - 2018-01-27 22:10:55 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/fathtech/public_html/master-inventory/application/controllers/Dashboard.php:55) /home/fathtech/public_html/master-inventory/system/core/Common.php 570
+ERROR - 2018-01-27 22:10:55 --> Severity: Error --> Call to undefined method MPersediaan::GetBaranag() /home/fathtech/public_html/master-inventory/application/controllers/Dashboard.php 55
+ERROR - 2018-01-27 22:13:13 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/fathtech/public_html/master-inventory/application/controllers/Dashboard.php:27) /home/fathtech/public_html/master-inventory/system/core/Common.php 570
+ERROR - 2018-01-27 22:13:13 --> Severity: Error --> Call to undefined method Movertime::GetOvertimeMinMax() /home/fathtech/public_html/master-inventory/application/controllers/Dashboard.php 27
+ERROR - 2018-01-27 22:29:07 --> 404 Page Not Found: Faviconico/index
